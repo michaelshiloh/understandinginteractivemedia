@@ -76,5 +76,5 @@ Homework
 - Conceptual
 
 ###### Modern art
-![](media/driveMotorAssembly.jpg)
+![](https://github.com/michaelshiloh/resourcesForClasses/blob/master/media/coaxConnector.png)
 
