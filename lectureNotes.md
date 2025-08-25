@@ -6,7 +6,9 @@ schedule](tba)
 ## New York University Abu Dhabi  
 ## Interactive Media Program
 ## Course title: Understanding Interactive Media
-Course number: IM-UH 
+Course number: IM-UH-1013  
+
+Section: 001
 
 Credit Hours: 4     
 
@@ -25,7 +27,7 @@ Meeting times:
 - 9:55 - 11:10 Tuesday
 - 9:55 - 11:10 Thursday
 
-Class location: 
+Class location: C3-043
 
 This is subject to change
 
@@ -34,17 +36,17 @@ This document: Lecture Notes
 ### Tuesday August 26 Week 1
 
 #### Administration
+- I'll be gone next week!
 
-#### In-class activity
+#### Today
+- Syllabus
+- Introductions
 
-(maybe something)
-
-#### What is this class about
-
-Introduction
-
-- Watch some videos
 - What is this class about?
+- [Schedule](https://docs.google.com/spreadsheets/d/1zGzVWv8EfPugCYiW7lyvZhyrRkXWa1TY/edit?gid=1040288533#gid=1040288533)
+- [Syllabus](syllabus.md)
+
+  While each sub-system might work perfectly by themselves, when they are
 
 #### How will this class work
 
@@ -58,23 +60,4 @@ Introduction
 
 - Who are we?
 - Who are you?
-
-Homework
-- Github
-- Discord
-- Brightspace
-
-### Thursday August 28
-#### Today
-- Conceptual and Algorithmic art
-
-#### Lecture
-
-##### What is Conceptual Art
-- Modern
-- Dada
-- Conceptual
-
-###### Modern art
-![](https://github.com/michaelshiloh/resourcesForClasses/blob/master/media/coaxConnector.png)
 
