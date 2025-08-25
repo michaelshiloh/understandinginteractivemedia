@@ -1,7 +1,5 @@
 Shortcut to [today's assignment](homework.md#todays-assignment)  
 Shortcut to [today's lecture](lectureNotes.md#todays-lecture)  
-[Presentation
-schedule](tba)
 
 ## New York University Abu Dhabi  
 ## Interactive Media Program
@@ -56,8 +54,8 @@ constitute the body of this course.
 
 ### Course Learning Outcomes (CLOs) 
 
-| CLO number | Upon successful completion of this course the student will be able to: | Linked to Program Learning Outcome * (Level of Contribution - High/Medium/Low) |
-| --- | ---------------------- | ---------------------- |
+| Upon successful completion of this course the student will be able to: | Linked to Program Learning Outcome * (Level of Contribution - High/Medium/Low) |
+| ---------------------- | ---------------------- |
 | 1 Gain exposure to a range of thinkers and practitioners relevant to interactive media | PL1: High |
 | 2: Cultivate a vocabulary that allows for the critical description and discussion of interactive media concepts, theories, and projects | PLO2: High |
 | 3: CLO3: Demonstrate the ability to apply critical media concepts and context to past, present, and future interactive media work | PLO4: HIGH |
