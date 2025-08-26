@@ -39,25 +39,34 @@ This document: Lecture Notes
 - I'll be gone next week!
 
 #### Today
-- Syllabus
+- What is this class about?
 - Introductions
 
-- What is this class about?
+#### What is this class about?
 - [Schedule](https://docs.google.com/spreadsheets/d/1zGzVWv8EfPugCYiW7lyvZhyrRkXWa1TY/edit?gid=1040288533#gid=1040288533)
 - [Syllabus](syllabus.md)
-
-  While each sub-system might work perfectly by themselves, when they are
-
-#### How will this class work
 
 - Modules
 - Each module
     - Readings
     - Lecture
     - Group activity
-- [weekly schedule](weeklySchedule.md)
-- [Syllabus](syllabus.md)
 
-- Who are we?
-- Who are you?
+#### What is this class really about?
 
+- What is art?
+- What is Interactive Media?
+- How do you explain what you do?
+- How do you put your work into context?
+- How do you justify your work?
+
+#### Introductions
+
+- Why did you choose IM?
+- What is your creative passion?
+- What kind of art do you like?
+- What kind of thinking about art do you like?
+- What are some of your favorite art exhibitions?
+- What other questions can we talk about?
+
+- About me
