@@ -71,7 +71,7 @@ This document: Lecture Notes
 
 - About me
 
-#### todays-lecture
+### Thursday August 28 Week 1
 #### Today
 - Module 1: Conceptual Art, Procedural Art, Algorithms, Programmable Objects
 
@@ -151,4 +151,13 @@ Algorithmic art
   contributions to the study of algebra. 
 
 The Latinization of his name, ‘Algoritmi’ gave English the word algorithm.
+
+### Tuesday September 2 Week 2
+class cancelled
+
+#### todays-lecture
+### Thursday September 4 Week 2
+#### Today
+- Reading response 
+- Time permitting, group project presentations
 
