@@ -157,7 +157,14 @@ class cancelled
 
 #### todays-lecture
 ### Thursday September 4 Week 2
+#### Administration
+- I have uploaded the following course material:
+    -[Readings](https://drive.google.com/drive/folders/1_IM74SvDN4GlwIJQtmSUM2WGTHZfnX5a?usp=sharing)
+    -[Lectures](https://drive.google.com/drive/folders/11BUmYWTcuoL0unxcGSFyNUksf8Mgt8CY?usp=sharing)
+    -[Grading
+    Rubrics](https://drive.google.com/drive/folders/1N7vikHjB3R4llwI-HjBRahrWgJVwIu09?usp=sharing)
+- Class today will be held via [Zoom](https://nyu.zoom.us/j/98763441670?jst=2). You are welcome to join from the classroom or elsewhere.
 #### Today
 - Reading response 
-- Time permitting, group project presentations
+- Time permitting, group project presentations, if you are ready
 
