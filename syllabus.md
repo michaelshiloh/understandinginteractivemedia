@@ -86,12 +86,15 @@ the key measures for comprehension and evaluation.
 ## Structure 
 
 This class is divided into six thematic modules plus the final project. Each
-thematic module consists of four portions occupying one class session each:
-- a. Lecture
+thematic module consists of four portions occupying one class session each, so
+each module takes four class meetings or two weeks:
+- a. Lecture (first meeting in week 1)
 - b. Discussion (about the lecture) + Group formation and ideation session
+  (second meeting in week 1)
 - c. In-class discussion and contextualization of assigned readings + Group
-  work  session + feedback
-- d. Presentation and critique of group creative activity
+  work  session + feedback (first meeting in week 2)
+- d. Presentation and critique of group creative activity (second meeting in
+  week 2)
 
 The themes are (in sequential order):
 1. Algorithms - On Randomness + Chance Machine Collaboration 
