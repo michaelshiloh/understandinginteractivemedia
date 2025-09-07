@@ -523,7 +523,8 @@ presentation on their Brightspace).**
 
 #### Artist list
 
-| ---------------------- | ---------------------- | ---------------------- |
+| A | B | C |
+| --- | --- | --- |
 | F.O.A.M | Jeremy Bailey | Tad Hirsch |
 | Joanna Berzowska | David Link | Atau Tanaku |
 | Ken Renaldo | Wim Devoye | Random international |
