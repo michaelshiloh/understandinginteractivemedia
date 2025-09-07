@@ -427,10 +427,12 @@ Students may also contact religiousaccommodations@nyu.edu for assistance.
 ## Module 1 (Weeks 1-2): Algorithms – On Randomness and Chance Machine Collaboration
 
 ### [Readings:](https://drive.google.com/drive/folders/1_IM74SvDN4GlwIJQtmSUM2WGTHZfnX5a?usp=sharing)
-- Christiane Paul. 2015. Digital Art - ch. Introduction
-- Reas, Casey, McWilliams, Chandler, and Barendse, Jeroen. 2010. Form +
-Code in Design, Art, and Architecture. - ch. Introduction + What is
-Code?
+1. Christiane Paul. 2015. 
+***Digital Art***,
+**Chapter: Introduction**
+1. Reas, Casey, McWilliams, Chandler, and Barendse, Jeroen. 2010. 
+***Form + Code in Design, Art, and Architecture***,
+**Chapters: Introduction** + **What is Code?**
 
 ### Group Activity:
 - "In conceptual art the idea or concept is the most important aspect of the work.
@@ -438,13 +440,13 @@ When an artist uses a conceptual form of art, it means that all of the planning
 and decisions are made beforehand, and the execution is a perfunctory affair.
 The idea becomes a machine that makes the art."
 Sol Lewitt, Paragraphs on Conceptual Art, Art Forum, 1967
-- In small groups (two or max three) - create a work of conceptual art based on
+- **In small groups (two or max three) - create a work of conceptual art based on
 Randomness, Chance and Algorithm in any medium. It can be digital, physical,
 performance, sound... any artistic form you choose and document it in a
-presentation format.
-- The work should start with a clear concept and consist of a series of rules or
+presentation format.**
+- **The work should start with a clear concept and consist of a series of rules or
 steps such that the concept/algorithm is the work of art, and the outcome is a
-document of process - a "perfunctory affair".
+document of process - a "perfunctory affair".**
 - Your documentation should:
     - Be a presentation (around 10mins) (can be attached or if too
       large/issues with uploading, you can add a link to a shared document,
@@ -462,13 +464,269 @@ document of process - a "perfunctory affair".
     - Conclude the presentation with key prompts for conversation about your
       idea/piece, steer the conversation in a way that is meaningful for you.
       What do you want feedback on?
-- Prepare to show in class for critique and upload your presentation to
+- **Prepare to show in class for critique and upload your presentation to
 Brightspace. (Each member of the group should upload their group’s
-presentation on their Brightspace).
+presentation on their Brightspace).**
 - If you are looking for inspiration, flip through the catalogue for the 1970
 exhibition "Information" curated by Kynaston McShine at MoMA. Download the
 PDF from the "publications" section at bottom of page here:
 https://www.moma.org/calendar/exhibitions/2686?locale=en
+
+## Module 2 (Weeks 3-4): Interactivity
+
+### [Readings:](https://drive.google.com/drive/folders/1_IM74SvDN4GlwIJQtmSUM2WGTHZfnX5a?usp=sharing)
+1. Kruegger, Myron. 1991. 
+***What Should You Wear to an Artificial Reality?***,
+in *Proceedings of the International Conference on Artificial Reality and
+Telexistence*, **51–62**. (12 pages)
+1. Lynn Hershman, 1990.
+***The Fantasy Beyond Control*** (4 pages) 
+
+#### Going Further:
+1. Katja Kwastek, 2013.
+***Aesthetics of Interaction in Digital Art***,
+**Chapter 1 Interactive Art: Definition and Origins** (42 pages) 
+2. ***Cybernetic Serendipity***,
+**The Computer and The Arts** ,
+exhibition catalogue -1968 [here](https://monoskop.org/Cybernetic_Serendipity)
+or on Brightspace
+
+### Group Activity:
+**Referring to the artist list in this assignment, students should work
+together in a group choosing a media artist you are interested in
+researching from the following list. Students should then research the
+one of the artist’s work and collect images/videos of the project to
+present. Your presentation should act as a critique and summary of
+one of the works.**
+- Your documentation should:
+    - Be a presentation (around 10mins) (can be attached or if too large/issues
+    with uploading, you can add a link to a shared document, make sure I
+    can access it)
+    - Include everyone's names.
+    - The major concepts in this work
+    - What year was the work produced in?
+    - A formalized opinion about this work
+    - How was this work made?
+    - What technology was used?
+    - How does the technology inform the concept of the work?
+    - How does the user engage with the work?
+    - A diagram of how the audience engages with the work.
+    - Pay close attention to the design of the presentation itself, make sure it
+    communicates the idea eﬀectively, considers aesthetics, speaks to the
+    concept you are conveying.
+    - Conclude the presentation with key prompts for conversation about your
+    idea/piece, steer the conversation in a way that is meaningful for you.
+    What do you want feedback on?
+- **Prepare to show in class for critique and upload your presentation to
+Brightspace. (Each member of the group should upload their group’s
+presentation on their Brightspace).**
+
+#### Artist list
+
+| ---------------------- | ---------------------- | ---------------------- |
+| F.O.A.M | Jeremy Bailey | Tad Hirsch |
+| Joanna Berzowska | David Link | Atau Tanaku |
+| Ken Renaldo | Wim Devoye | Random international |
+| Kati London | Janet Cardiff | Barbara Kruger |
+| Glorianna Davenport | Bill Viola | Jenny Holzer |
+| Michelle Teran | Toni Osler | Golan Levin |
+| Thomson & Craighead | Pipilotti Rist | Graffiti Research lab |
+| Toni Dove | Keith Cottingham | George Apheraghis |
+| Cory Arcangel | Jeff Wall | Reva Stone |
+| Julian Bleecker | lincoln schatz | Rebbeca Horn |
+| Natalie Bookchin | Eric Raymond | Laurel Woodcock |
+| Kayle Brandon & Heath  | Isabelle Hayer | Jessica Thompson |
+| Bunting | Jeffrey Shaw | Tad Hirsch |
+| George Legrady | Max Dean | Garnet Hertz |
+| Lev Manovich | Jeremy Bailey | Angela Bulloch |
+| Scott Paterson | Germaine Koh | Björn Schülke |
+| Philip Pocock | Peter Flemming | U-Ram Choe |
+| Edward Poitras | Andrea Poli | C.E.B. Reas |
+| David Rokeby | Heath Bunting | Rebecca Horn |
+| Warren Sack | Blast Theory | Luke Debois |
+| Jamie Schulte | Jason Lewis | Thomson & Craighead |
+| Brooke Singer | Ron Wakkary | Douglas Gordan |
+| Gregor Stehle | Kate Armstrong | Allen Ruppersberg |
+| Angie Waller | Rita McKeough | Bill Vorn |
+| Cheryl L'Hirondelle | Jonah Bruckner-Cohen | Simone Jones |
+| Marina Zurkow | Qubo Gas | Jessica Thompson |
+| JodiCatherine |  Richards | Ken Gregory |
+| Mary Flanagan | Gemma Shusterman | David Hoffos |
+| Steve Mann | Doug Back |
+
+## Module 3 (Weeks 5-6): Machine Art
+
+### [Readings:](https://drive.google.com/drive/folders/1_IM74SvDN4GlwIJQtmSUM2WGTHZfnX5a?usp=sharing)
+1. ***Zombie Media: Circuit Bending Media Archaeology into an Art Method***,
+Garnet Hertz – Jussi Parikka, pp 141-154. (14 pages)
+
+#### Going Further:
+1. Browckmann, Andreas, 2016.
+***Machine Art in the Twentieth Century***,
+**Chapter 1**
+2. Nato Thompsom, Arjen Noordeman, and Massachusetts Museum of
+Contemporary Art. 
+***Interventionists: Users' Manual for the Creative
+Disruption of Everyday Life.***
+North Adams, Massachusetts: MASS MoCA, 2004. 
+Read at least the essays "Trespassing Relevance" p. 13 by Nato Thompson
+and "Interventionism and the Historical Uncanny" by Gregory Sholette p. 133
+and skim through the art.
+3. Oliver, Julian, Gordan Savičić, and Danja Vasiliev,  2011. 
+***[The Critical Engineering Manifesto](http://criticalengineering.org/)***
+
+### Group Activity:
+**As a group, choose an artist or artwork from the readings or lecture that
+excited or resonated with you. How would you update that artwork today, or
+connect it to an issue you feel passionate about? In small groups create a work
+of machine art that updates and/or re-focuses your chosen artist/artwork.**
+- Your documentation should:
+    - Be a presentation (around 10mins) (can be attached or if too
+      large/issues with uploading, you can add a link to a shared document,
+      make sure I can access it)
+    - Include everyone's names.
+    - Provide a title and paragraph description of the work including the
+      concept.
+    - Mention the chosen artist who is providing inspiration for this work and
+      why you have chosen them.
+    - Contain images, video or sound recording to convey the experience of the
+      work.
+    - Pay close attention to the design of the presentation itself, make sure
+      it communicates the idea eﬀectively, considers aesthetics, speaks to the
+      concept you are conveying.
+    - Conclude the presentation with key prompts for conversation about your
+      idea/piece, steer the conversation in a way that is meaningful for you.
+      What do you want feedback on?
+- Prepare to show in class for critique and upload your presentation to
+  Brightspace. (Each member of the group should upload their group’s
+  presentation on their Brightspace).
+
+## Module 4 (Weeks 7-8): Net Art and Post-Internet Art
+
+### [Readings:](https://drive.google.com/drive/folders/1_IM74SvDN4GlwIJQtmSUM2WGTHZfnX5a?usp=sharing)
+1. Mark Tribe, and Reena Jana. 2006. New Media Art. Hong Kong: Taschen. 
+**Read the entire book.**
+
+#### Going Further:
+1. Hito Steyerl. 2013. 
+***Too Much World: Is the Internet Dead?***, 
+[E-Flux, no. 49 (November)](https://www.e-flux.com/journal/49/60004/too-much-world-is-the-internet-dead/)
+
+### Group Activity:
+**Drawing on readings and class discussions, make a piece of internet-based art.
+This can be literally using the internet as a medium or responding to the
+internet in another way, as we saw in "post-internet" art.
+Describe which art works and ideas from the class materials inspired your piece
+in your documentation.**
+
+- Your documentation should:
+    - Be a presentation (around 10mins) (can be attached or if too
+      large/issues with uploading, you can add a link to a shared document,
+      make sure I can access it)
+    - Include everyone's names.
+    - Provide a title and paragraph description of the work including the
+      concept.
+    - Mention at least one artist we have read or discussed who is providing
+      inspiration for this work.
+    - Contain images, video or sound recording to convey the experience of the
+      work.
+    - Pay close attention to the design of the presentation itself, make sure
+      it communicates the idea eﬀectively, considers aesthetics, speaks to the
+      concept you are conveying.
+    - Conclude the presentation with key prompts for conversation about your
+      idea/piece, steer the conversation in a way that is meaningful for you.
+      What do you want feedback on?
+- Prepare to show in class for critique and upload your presentation to
+  Brightspace. (Each member of the group should upload their group’s
+  presentation on their Brightspace).
+
+## Module 5 (Weeks 9-10): Environment and Spatial Art
+
+### [Readings:](https://drive.google.com/drive/folders/1_IM74SvDN4GlwIJQtmSUM2WGTHZfnX5a?usp=sharing)
+1.  ***Literary Art in Digital Performance***, 
+edited by Francisco J. Ricardo, Bloomsbury Publishing USA, 2009.
+Chapter 6: **Geopoetics: Aesthetic Experience in the Works of Stefan Schemat and Teri Rueb.**
+Kwastek, Katja. 
+1. Farahi, Behnaz and Leach, Neil. , Berlin, Boston: Birkhäuser, 2024.
+***Interactive Design: Towards a Responsive Environment***
+1.1. **Architecture. Interaction, Systems** by Usman Haque, pages 42 - 57
+1.1. **Adaptation: Towards a Theory of Interactivity**, pages 48 - 56, by Neil
+Leach
+
+### Group Activity:
+**Drawing on inspiration from examples discussed in class, readings, class
+discussions and your own research, prepare a [site-speciﬁic](https://www.guggenheim.org/artwork/movement/site-specific-artenvironmental-art) work of
+environment/spatial art within our NYUAD campus**
+- Your documentation should:
+    - Be a presentation (around 10mins) (can be attached or if too
+      large/issues with uploading, you can add a link to a shared document,
+      make sure I can access it)
+    - Include everyone's names.
+    - Provide a title and paragraph description of the work including the
+      concept.
+    - Mention at least one artist we have read or discussed who is providing
+      inspiration for this work.
+    - ·Contain images, video or sound recording to convey the experience of
+      the work.
+    - Pay close attention to the design of the presentation itself, make sure
+      it communicates the idea eﬀectively, considers aesthetics, speaks to the
+      concept you are conveying.
+    - Conclude the presentation with key prompts for conversation about your
+      idea/piece, steer the conversation in a way that is meaningful for you.
+      What do you want feedback on?
+- Prepare to show in class for critique and upload your presentation to
+  Brightspace. (Each member of the group should upload their group’s
+  presentation on their Brightspace).
+
+## Module 6 (Weeks 11-12): Affect and Biofeedback
+
+### [Readings:](https://drive.google.com/drive/folders/1_IM74SvDN4GlwIJQtmSUM2WGTHZfnX5a?usp=sharing)
+1. Farahi, Behnaz and Leach, Neil. 
+***Interactive Design: Towards a Responsive
+Environment, Berlin***, Boston: Birkhäuser, 2024.
+1.1.  Read ‘From Cybernetics to Aﬀective Computing in Design’ by Behnaz
+Farahi, pages 84 - 94
+1.1.  Read ‘Neurospace’ by Mona Ghandi, pages 95 - 105
+
+### Group Activity:
+- Your documentation should:
+    - Be a presentation (around 10mins) (can be attached or if too
+      large/issues with uploading, you can add a link to a shared document,
+      make sure I can access it)
+    - Include everyone's names.
+    - Provide a title and paragraph description of the work including the
+      concept.
+    - Mention at least one artist we have read or discussed who is providing
+      inspiration for this work.
+    - Contain images, video or sound recording to convey the experience of the
+      work.
+    - A diagram showcasing the biofeedback/aﬀective loop (what type of
+      physiological/biometric data is being picked up, by what kind of
+      sensor/device, how is this picked up data inﬂuencing the project in
+      real-time?)
+    - Pay close attention to the design of the presentation itself, make sure
+      it communicates the idea eﬀectively, considers aesthetics, speaks to the
+      concept you are conveying.
+    - Conclude the presentation with key prompts for conversation about your
+      idea/piece, steer the conversation in a way that is meaningful for you.
+      What do you want feedback on?
+- Prepare to show in class for critique and upload your presentation to
+  Brightspace. (Each member of the group should upload their group’s
+  presentation on their Brightspace).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
