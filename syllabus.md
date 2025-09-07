@@ -422,18 +422,17 @@ me in advance of religious holidays or observances that might coincide with
 exams, assignments, or class times to schedule reasonable alternatives.
 Students may also contact religiousaccommodations@nyu.edu for assistance.
 
-## Course Schedule
+# Appendix 2: Assignments - 45%
 
-Module 1: Algorithms – On Randomness and Chance Machine Collaboration
-WEEKS 1-2
+## Module 1 (Weeks 1-2): Algorithms – On Randomness and Chance Machine Collaboration
 
-Readings:
+### [Readings:](https://drive.google.com/drive/folders/1_IM74SvDN4GlwIJQtmSUM2WGTHZfnX5a?usp=sharing)
 - Christiane Paul. 2015. Digital Art - ch. Introduction
 - Reas, Casey, McWilliams, Chandler, and Barendse, Jeroen. 2010. Form +
 Code in Design, Art, and Architecture. - ch. Introduction + What is
 Code?
 
-Group Activity:
+### Group Activity:
 - "In conceptual art the idea or concept is the most important aspect of the work.
 When an artist uses a conceptual form of art, it means that all of the planning
 and decisions are made beforehand, and the execution is a perfunctory affair.
@@ -463,20 +462,17 @@ document of process - a "perfunctory affair".
     - Conclude the presentation with key prompts for conversation about your
       idea/piece, steer the conversation in a way that is meaningful for you.
       What do you want feedback on?
-
-Prepare to show in class for critique and upload your presentation to
+- Prepare to show in class for critique and upload your presentation to
 Brightspace. (Each member of the group should upload their group’s
 presentation on their Brightspace).
-
-If you are looking for inspiration, flip through the catalogue for the 1970
+- If you are looking for inspiration, flip through the catalogue for the 1970
 exhibition "Information" curated by Kynaston McShine at MoMA. Download the
 PDF from the "publications" section at bottom of page here:
 https://www.moma.org/calendar/exhibitions/2686?locale=en
 
-Rest of modules TBA
 
 
-### Appendix 1: Interactive Media Major Program Learning Outcomes (PLOs)
+# Appendix 1: Interactive Media Major Program Learning Outcomes (PLOs)
 
 Upon completion of the major in Interactive Media at NYU Abu Dhabi, all
 students are expected to have fulfilled the following:
