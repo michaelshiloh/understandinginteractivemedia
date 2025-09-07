@@ -1,7 +1,5 @@
 Shortcut to [today's assignment](homework.md#todays-assignment)  
 Shortcut to [today's lecture](lectureNotes.md#todays-lecture)  
-[Presentation
-schedule](tba)
 
 ## New York University Abu Dhabi  
 ## Interactive Media Program
@@ -18,6 +16,11 @@ Session: Fall 2025
 
 Course website:
 [https://github.com/michaelshiloh/understandinginteractivemedia/](https://github.com/michaelshiloh/understandinginteractivemedia/)  
+
+Other material:
+- [Readings](https://drive.google.com/drive/folders/1_IM74SvDN4GlwIJQtmSUM2WGTHZfnX5a?usp=sharing)
+- [Lectures](https://drive.google.com/drive/folders/11BUmYWTcuoL0unxcGSFyNUksf8Mgt8CY?usp=sharing)
+- [Grading Rubrics](https://drive.google.com/drive/folders/1N7vikHjB3R4llwI-HjBRahrWgJVwIu09?usp=sharing)
 
 Instructor: Michael Shiloh mshiloh@nyu.edu   
 
