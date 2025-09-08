@@ -36,6 +36,7 @@ This is subject to change
 
 This document: Lecture Notes
 
+#### Today
 ### Tuesday August 26 Week 1
 
 #### Administration
@@ -75,7 +76,6 @@ This document: Lecture Notes
 - About me
 
 ### Thursday August 28 Week 1
-#### Today
 - Module 1: Conceptual Art, Procedural Art, Algorithms, Programmable Objects
 
 #### Administration
@@ -171,3 +171,18 @@ class cancelled
 - Reading response 
 - Time permitting, group project presentations, if you are ready
 
+#### Today
+### Tuesday September 9 week 3
+
+#### Administration
+
+#### Today
+- Interactive Media
+
+##### Some videos that aren't in the slides
+- Masika Fujihata [Beyond Pages](https://www.youtube.com/watch?v=6Ek2DW7aV68)
+- FoAM [T-Garden](https://fo.am/publications/t-garden/)
+- George Legrady [Pockets Full of Memories](https://www.youtube.com/watch?v=Wak_1YBPM4I)
+- [Constanza Pina](https://vimeo.com/constanzapina)
+- Tony Dove [Te Dress that Eats
+  Souls](https://tonidove.com/the-dress-that-eats-souls/video/)
