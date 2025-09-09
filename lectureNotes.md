@@ -177,7 +177,12 @@ class cancelled
 #### Administration
 
 #### Today
+- Finish group presentations
 - Interactive Media
+
+##### Notes
+- Conversation Theory: explaining how conversational interactions lead
+  to the emergence of knowledge between participants.
 
 ##### Some videos that aren't in the slides
 - Masika Fujihata [Beyond Pages](https://www.youtube.com/watch?v=6Ek2DW7aV68)
