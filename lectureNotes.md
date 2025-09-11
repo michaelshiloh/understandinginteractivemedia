@@ -171,14 +171,13 @@ class cancelled
 - Reading response 
 - Time permitting, group project presentations, if you are ready
 
-#### Today
 ### Tuesday September 9 week 3
 
 #### Administration
 
 #### Today
 - Finish group presentations
-- Interactive Media
+- Lecture: Interactive Media
 
 ##### Notes
 - Conversation Theory: explaining how conversational interactions lead
@@ -188,6 +187,19 @@ class cancelled
 - Masika Fujihata [Beyond Pages](https://www.youtube.com/watch?v=6Ek2DW7aV68)
 - FoAM [T-Garden](https://fo.am/publications/t-garden/)
 - George Legrady [Pockets Full of Memories](https://www.youtube.com/watch?v=Wak_1YBPM4I)
-- [Constanza Pina](https://vimeo.com/constanzapina)
+- Marshmallow Laser Feast [In the Eyes of the
+  Animal](https://www.youtube.com/watch?v=XJMA0Nj_zsA)
+- [Constanza Pina](https://vimeo.com/constanzapina) [Khipu](https://youtu.be/-L5RoBMKOdM)
 - Tony Dove [Te Dress that Eats
   Souls](https://tonidove.com/the-dress-that-eats-souls/video/)
+
+#### Today
+### Thursday September 11 week 3
+
+#### Administration
+
+#### Today
+- Finish Lecture: Interactive Media
+- Review homework
+- Plan for next Tuesday
+- Short discussion about lecture

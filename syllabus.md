@@ -498,15 +498,15 @@ or on Brightspace
 **Referring to the artist list in this assignment, students should work
 together in a group choosing a media artist you are interested in
 researching from the following list. Students should then research the
-one of the artist’s work and collect images/videos of the project to
+chosen artist’s work and collect images and/or videos of the projects to
 present. Your presentation should act as a critique and summary of
 one of the works.**
 - Your documentation should:
-    - Be a presentation (around 10mins) (can be attached or if too large/issues
-    with uploading, you can add a link to a shared document, make sure I
-    can access it)
+    - Be a presentation (around 10mins) (can be attached or if too large or
+      other issues with uploading, you can add a link to a shared document,
+      make sure I can access it)
     - Include everyone's names.
-    - The major concepts in this work
+    - Include the major concepts in this work
     - What year was the work produced in?
     - A formalized opinion about this work
     - How was this work made?
@@ -514,15 +514,23 @@ one of the works.**
     - How does the technology inform the concept of the work?
     - How does the user engage with the work?
     - A diagram of how the audience engages with the work.
-    - Pay close attention to the design of the presentation itself, make sure it
-    communicates the idea eﬀectively, considers aesthetics, speaks to the
-    concept you are conveying.
-    - Conclude the presentation with key prompts for conversation about your
-    idea/piece, steer the conversation in a way that is meaningful for you.
-    What do you want feedback on?
+    - Pay close attention to the design of the presentation itself, make sure
+      it communicates the idea effectively, considers aesthetics, and speaks
+      to the concept you are conveying.
+    - Conclude the presentation with key prompts for conversation about the
+      piece you chose, steering the conversation in a way that is meaningful
+      for you.  What do you want feedback on?
 - **Prepare to show in class for critique and upload your presentation to
-Brightspace. (Each member of the group should upload their group’s
-presentation on their Brightspace).**
+  Brightspace. (Each member of the group should upload their group’s
+  presentation on their Brightspace).**
+
+Groups:
+- Mirette, Meera, Mohidul
+- Victor, Keya, Hamdah
+- Aysha, Batool, Shereena
+- Raghd, Hubert, Hyein
+- Yiyang, Elora, Elora
+- Sudiksha, Fausto
 
 #### Artist list
 
