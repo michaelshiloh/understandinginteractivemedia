@@ -36,7 +36,6 @@ This is subject to change
 
 This document: Lecture Notes
 
-#### Today
 ### Tuesday August 26 Week 1
 
 #### Administration
@@ -158,7 +157,6 @@ The Latinization of his name, ‘Algoritmi’ gave English the word algorithm.
 ### Tuesday September 2 Week 2
 class cancelled
 
-#### todays-lecture
 ### Thursday September 4 Week 2
 #### Administration
 - I have uploaded the following course material:
@@ -193,7 +191,7 @@ class cancelled
 - Tony Dove [Te Dress that Eats
   Souls](https://tonidove.com/the-dress-that-eats-souls/video/)
 
-#### Today
+#### todays-lecture
 ### Thursday September 11 week 3
 
 #### Administration
