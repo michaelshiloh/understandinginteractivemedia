@@ -171,8 +171,6 @@ class cancelled
 
 ### Tuesday September 9 week 3
 
-#### Administration
-
 #### Today
 - Finish group presentations
 - Lecture: Interactive Media
@@ -191,13 +189,23 @@ class cancelled
 - Tony Dove [Te Dress that Eats
   Souls](https://tonidove.com/the-dress-that-eats-souls/video/)
 
-#### todays-lecture
 ### Thursday September 11 week 3
-
-#### Administration
 
 #### Today
 - Finish Lecture: Interactive Media
 - Review homework
 - Plan for next Tuesday
 - Short discussion about lecture
+
+#### todays-lecture
+### Tuesday September 15 week 4
+
+#### Administration
+Pizza!
+- Thursday, Sep 18th, 6:30pm - 8:00pm 
+- C3-153 + C3-155 
+- Open to all IM majors, minors, and students enrolled in IM classes
+
+#### Today
+- Reading discussion
+- Check progress of group work
