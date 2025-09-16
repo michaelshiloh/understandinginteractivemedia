@@ -201,10 +201,15 @@ class cancelled
 ### Tuesday September 15 week 4
 
 #### Administration
-Pizza!
-- Thursday, Sep 18th, 6:30pm - 8:00pm 
-- C3-153 + C3-155 
-- Open to all IM majors, minors, and students enrolled in IM classes
+- Brightspace
+    - Access
+    - Assignment catchup
+    - Attendance
+    - Participation
+- Pizza!
+    - Thursday, Sep 18th, 6:30pm - 8:00pm 
+    - C3-153 + C3-155 
+    - Open to all IM majors, minors, and students enrolled in IM classes
 
 #### Today
 - Reading discussion
