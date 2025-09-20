@@ -221,3 +221,109 @@ class cancelled
 - Finish last presentation
 - Attention
 - Lecture and discussion: Machine Art
+
+#### Machine Art
+
+##### Machine Art in the Twentieth Century
+
+““Machine art” is neither a movement nor a genre; rather, the term encompasses
+diverse ways in which artists engage with technical systems. “
+
+““Machine art"—namely, as those artistic works and practices that implicitly
+or explicitly articulate the relation between subjects and machines”
+
+Andreas Broeckmann, *Machine Art in the Twentieth Century*
+(an overview of the vague terrain of “machine art”, various definitions of 
+"machine" and "machine aesthetics")
+
+Think about how you would define *machine art* as we go along
+
+##### Machine Art exhibition at MOMA (1934)
+
+The notion that machine-made objects have aesthetic value has been with us for
+some time, dating back to avant-garde movements of the early 20th century such
+as Futurism, which influenced other schools, including the Bauhaus and De
+Stijl (focused on geometric abstraction and lack of ornamentation).  However,
+the idea that a museum would display a propeller or a vacuum cleaner as a work
+of art was startling to many in 1934.
+
+Visitors to *Machine Art* were startled to find three floors of utilitarian,
+machine-made objects, such as springs, pots and pans, and scientific
+instruments, displayed on pedestals, elevating them to the level of sculpture.
+
+Pictures
+[here](https://www.moma.org/calendar/exhibitions/1784?installation_image_index=0)
+
+The machine as art vs. the machine as something that makes art
+
+##### Robot K-456 (Nam June Paik) 1964
+
+Pictures 
+[here](https://njpart.ggcf.kr/collections/251) and
+[here](https://cyberneticzoo.com/robots-in-art/1964-robot-k-456-nam-june-paik-korean-shuya-abe-japanese/)
+
+Video
+[here](https://www.facebook.com/AmericanMasters/videos/nam-june-paiks-robot/791881432138126/)
+and
+[here](https://www.youtube.com/watch?v=JmkYjGVVRFA)
+
+- A major figure of the experimental Fluxus movement 
+    - (Fluxus was an international, interdisciplinary community of artists,
+      composers, designers and poets during the 1960s and 1970s who engaged in
+      experimental art performances which emphasized the artistic process over
+      the finished product.)
+- Nam June Paik is considered the father of video art. His most famous
+  sculptures feature real TV sets. He co-invented a video synthesizer using
+  analog electronics
+- Paik’s practice—which combined music, performance, technology, and
+  film—explored the possibilities of mass media and emerging technologies with
+  impressive foresight.  
+- Coining the term “electronic superhighway” in the 1970s, Paik wrote of a
+  near future in which new media technologies would connect populations
+  through global networks; in a sense, he predicted the internet. 
+
+- The concept of the robot came from Paik wanting to create a robot for
+  impromptu street performances that create a “sudden show” or “split-second
+  surprise”.  
+- Salvaged, junk, and household materials.  This reflected what would become a
+  staple of his artwork, repurposing cheap and disposable materials into brand
+  new technologies.  
+
+
+#####  Edward Ihnatowicz 'The Senster'
+
+[Video](https://www.youtube.com/watch?v=CK7ZMRqyTWU)
+
+- Edward Ihnatowicz (1926 -1988) was a cybernetic sculptor who explored
+  interactivity between his robotic works and the audience
+- The Senster was a 4 meter tall robot, commissioned by Dutch electronics
+  manufacturer Philips to be on show at the Evoluon, its exhibition space
+  dedicated to science and technology in Eindhoven. 
+- It was one of the first computer controlled robotic works of art and could
+  be visited between 1970-1974 in the entrance hall gallery of the Evoluon. 
+- The work consisted of a steel skeleton, with a resemblance to a dinosaur or
+  a giraffe with its long neck. 
+- The ‘beast’ reacted to sound and movement made by the visitors. 
+- Its two legs remained immobile and connected to the ground, but its neck and
+  head moved and could follow people around the room.
+- There were three different movement responses built into the robot: 
+    - gentle sounds would make its head move toward the visitor, 
+    - loud sounds would make the head pull back, 
+    - and when a visitor performed fast movements the robot would follow
+      these. 
+- Spectators reacted with great enthusiasm to the robot.
+
+Picture of it installed in the Evoluon
+[here](https://evoluon.dse.nl/index-e.html)
+
+A [fan site](http://www.senster.com/ihnatowicz/index.htm) with much
+information
+
+#####  Survival research Labs
+
+[About](https://srl.org/?location=about.html)
+
+Video
+[clip](https://github.com/michaelshiloh/resourcesForClasses/blob/master/media/srl_doom_clip.mpg)
+
+[Videos](https://www.youtube.com/@survivalresearchlabs)
