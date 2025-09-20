@@ -37,13 +37,13 @@ This is subject to change
 This document: Lecture Notes
 
 ### Tuesday August 26 Week 1
+- Administration
+- What is this class about?
+- Introductions
 
 #### Administration
 - I'll be gone next week!
 
-#### Today
-- What is this class about?
-- Introductions
 
 #### What is this class about?
 - [Schedule](https://docs.google.com/spreadsheets/d/1zGzVWv8EfPugCYiW7lyvZhyrRkXWa1TY/edit?gid=1040288533#gid=1040288533)
@@ -158,6 +158,10 @@ The Latinization of his name, ‘Algoritmi’ gave English the word algorithm.
 class cancelled
 
 ### Thursday September 4 Week 2
+- Administration
+- Reading response 
+- Time permitting, group project presentations, if you are ready
+
 #### Administration
 - I have uploaded the following course material:
     - [Readings](https://drive.google.com/drive/folders/1_IM74SvDN4GlwIJQtmSUM2WGTHZfnX5a?usp=sharing)
@@ -165,13 +169,8 @@ class cancelled
     - [Grading
     Rubrics](https://drive.google.com/drive/folders/1N7vikHjB3R4llwI-HjBRahrWgJVwIu09?usp=sharing)
 - Class today will be held via [Zoom](https://nyu.zoom.us/j/98763441670?jst=2). You are welcome to join from the classroom or elsewhere.
-#### Today
-- Reading response 
-- Time permitting, group project presentations, if you are ready
 
 ### Tuesday September 9 week 3
-
-#### Today
 - Finish group presentations
 - Lecture: Interactive Media
 
@@ -197,8 +196,10 @@ class cancelled
 - Plan for next Tuesday
 - Short discussion about lecture
 
-#### todays-lecture
-### Tuesday September 15 week 4
+### Tuesday September 16 week 4
+- Administration
+- Reading discussion
+- Check progress of group work
 
 #### Administration
 - Brightspace
@@ -211,6 +212,12 @@ class cancelled
     - C3-153 + C3-155 
     - Open to all IM majors, minors, and students enrolled in IM classes
 
-#### Today
-- Reading discussion
-- Check progress of group work
+
+### Thursday September 18 week 3
+- Group presentations, Interactive Media
+
+#### todays-lecture
+### Tuesday September 23 week 5
+- Finish last presentation
+- Attention
+- Lecture and discussion: Machine Art
