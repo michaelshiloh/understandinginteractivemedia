@@ -236,9 +236,12 @@ Andreas Broeckmann, *Machine Art in the Twentieth Century*
 (an overview of the vague terrain of “machine art”, various definitions of 
 "machine" and "machine aesthetics")
 
-Think about how you would define *machine art* as we go along
+Q: Think about how you would define *machine art* as we go along
 
 ##### Machine Art exhibition at MOMA (1934)
+
+Pictures
+[here](https://www.moma.org/calendar/exhibitions/1784?installation_image_index=0)
 
 The notion that machine-made objects have aesthetic value has been with us for
 some time, dating back to avant-garde movements of the early 20th century such
@@ -251,10 +254,9 @@ Visitors to *Machine Art* were startled to find three floors of utilitarian,
 machine-made objects, such as springs, pots and pans, and scientific
 instruments, displayed on pedestals, elevating them to the level of sculpture.
 
-Pictures
-[here](https://www.moma.org/calendar/exhibitions/1784?installation_image_index=0)
-
 The machine as art vs. the machine as something that makes art
+
+Q: How would you critique or review this exhibition?
 
 ##### Robot K-456 (Nam June Paik) 1964
 
@@ -282,13 +284,15 @@ and
   near future in which new media technologies would connect populations
   through global networks; in a sense, he predicted the internet. 
 
-- The concept of the robot came from Paik wanting to create a robot for
+- The ide for the robot came from Paik wanting to create a robot for
   impromptu street performances that create a “sudden show” or “split-second
   surprise”.  
 - Salvaged, junk, and household materials.  This reflected what would become a
   staple of his artwork, repurposing cheap and disposable materials into brand
   new technologies.  
 
+Q: What does the use of salvaged items, junk, and household materials say
+about beauty and aesthetics?
 
 #####  Edward Ihnatowicz 'The Senster'
 
@@ -321,9 +325,92 @@ information
 
 #####  Survival research Labs
 
+[Video](https://www.youtube.com/watch?v=5dcg9MpNYuc)
+
+"Telling a story in a powerful way"
+
 [About](https://srl.org/?location=about.html)
 
-Video
-[clip](https://github.com/michaelshiloh/resourcesForClasses/blob/master/media/srl_doom_clip.mpg)
 
-[Videos](https://www.youtube.com/@survivalresearchlabs)
+Q:
+- Is it spectacle or art? Can it be both? 
+- An experience people don't usually get
+- Is it interactive?
+
+More
+[videos](https://www.youtube.com/@survivalresearchlabs)
+
+#####  Rebecca Horn
+
+[Video](https://www.youtube.com/watch?v=jtrQtrF51Xg)
+
+- Rebecca Horn (1944 - 2024) is a German visual artist 
+- best known for her installation art, film directing, and her body
+  modifications with body suits.
+- Horn describes the machines “have a soul because they act, shake,
+  tremble, faint, almost fall apart, and then come back to life again. They
+  are not perfect machine (…) I’m interested in the soul of a thing, not the
+  machine itself."
+- While often constructed with technical precision using hard, cold materials,
+  Horn‘s works – in concert with their temporal spacing and ritualistic
+  movements – are emotive and sensual, often striking a balance between
+  aggression and tenderness.
+
+Q: This balance between aggression and tenderness - do you see this in the
+other machine artists?
+
+#####  Arthur Ganson
+
+[Video](https://www.youtube.com/watch?v=__GhJl_UQg0&list=PLTclenKfUcZirva6j_Jc-YWzOlmNRdPmk)
+
+- Arthur Ganson (born 1955) is a kinetic sculptor, inventor and musician
+- He makes mechanical art demonstrations with existential themes..
+- Ganson describes his work as a cross between mechanical engineering and
+  choreography.
+- His sculptures have been called "gestural, playful, humorous, evocative, and
+  introspective
+- Ganson admits that he has been strongly influenced by the likes of such
+  Dadaists as Marcel Duchamp and Jean Tinguely.
+- Delicate assemblages of interconnecting gears, springs, cams, ratchets and
+  sprockets fashioned out of spot-welded bailing wire perform whimsical acts
+  with mostly found objects.
+- From a distance his sculptures, which are sometimes hand-cranked and
+  sometimes motorized, have a homespun 19th century quality.
+- They could be absurdist wire doodles.
+- Closer up, the movement and gesture implicit in his work becomes strangely
+  hypnotic — often humorous, childlike, introspective, and existential.
+
+Q: - How is this work existential?
+
+"I love to solve problems, ... but the end result is ambiguous"o
+
+Found objects - visual puns
+
+The fleetingness of the present moment
+
+"What would I love if I were a machine - I would love to be bathed in oil"
+
+Arthur Ganson at
+[TED](https://www.ted.com/talks/arthur_ganson_moving_sculpture)
+
+"All of these pieces start off in my own mind in my heart and I do my best at
+finding ways to express them with materials ... somehow I manage to get this
+thought out into the object ... the object itself means nothing once it is
+perceived and someone else brings it into their mind then a cycle has been
+completed ... I've always wanted to communicate my passion, my love, and that
+means the complete cycle of coming from inside out to someone perceiving it"
+
+Arthur Ganson at the [Long Now
+Foundation](https://www.youtube.com/watch?v=HyCyFe9QFrw)
+
+"In order for a piece to have any meaning to anyone, they create the meaning
+If you feel a connection to anything then it's not really in the piece, it's
+in you, and it's all about your experience"
+
+[Machine for Softening Hardened
+Hearts](https://www.youtube.com/watch?v=HyCyFe9QFrw&t=3774)
+
+#####  Theo Jansen
+#####  Ruben Margolis
+
+https://www.reubenmargolin.com/
