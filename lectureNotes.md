@@ -336,6 +336,14 @@ Q:
 - Is it spectacle or art? Can it be both? 
 - An experience people don't usually get
 - Is it interactive?
+- Is it [sublime](https://www.tate.org.uk/art/art-terms/s/sublime)
+
+"The theory of sublime art was put forward by Edmund Burke in A Philosophical
+Enquiry into the Origin of our Ideas of the Sublime and Beautiful published in
+1757. He defined the sublime as an artistic effect productive of the strongest
+emotion the mind is capable of feeling. He wrote ‘whatever is in any sort
+terrible or is conversant about terrible objects or operates in a manner
+analogous to terror, is a source of the sublime’."
 
 More
 [videos](https://www.youtube.com/@survivalresearchlabs)
@@ -410,7 +418,52 @@ in you, and it's all about your experience"
 [Machine for Softening Hardened
 Hearts](https://www.youtube.com/watch?v=HyCyFe9QFrw&t=3774)
 
-#####  Theo Jansen
+##### Peter Flemming
+
+[Video](https://peterflemming.ca/works/canoe)
+[Video](https://peterflemming.ca/works/smc)
+
+- Peter Flemming is a full-time artist, part-time professor and some-time
+  curator in Montréal who exhibits and works internationally.
+- Research interests include ad hoc architecture, intuitive physics, informal
+  engineering, solar power, and waste harvest.
+- Flemming's work considers natural and technological ecologies, in
+  site-specific projects that are resolved intuitively and experimentally.
+- “Technological systems for interpreting and shaping desire texture daily
+  life; a means to rationally orchestrate the world. Might not there be a need
+  for systems which irrationally de-orchestrate?”
+- His works like the Canoe dramatically demonstrates that functionality and
+  utility are not necessarily synonymous.: Functionality here is a constant -
+  complex mechanics running continuously - whereas utility is a widely
+  swinging variable.
+- Artist statement: My principal aim is to build systems I do not fully
+  understand, with the intention of attempting to understand them.
+  Technological systems for interpreting and shaping desire texture daily
+  life; a means to rationally orchestrate the world. Might not there be a need
+  for systems which irrationally de-orchestrate?
+
+Bonus: Stepper motor music
+on [bare stepper motors](https://www.youtube.com/watch?v=9of3rHkjV8g)
+or on a [CNC milling machine](https://www.youtube.com/watch?v=lCh-LC0UCM0)
+
 #####  Ruben Margolis
 
-https://www.reubenmargolin.com/
+[Video](https://www.reubenmargolin.com/waves/cadence/)
+[Caterpillar](https://www.reubenmargolin.com/caterpillars/caterpillar-with-chariot/)
+Detailed [story](https://www.reubenmargolin.com/waves/contours/) of one
+particular sculpture
+
+For the last 20 years I’ve been making kinetic sculptures that seek to combine
+the sensuousness of nature with the logic of math. My studio is in a yellow
+warehouse in Emeryville, California, a stone’s throw from the San Francisco
+Bay. During a typical day I often find myself moving in a circular arc:
+beginning, perhaps, with the memory of light on the ocean and the feel of
+wind, later being pulled into an irresistible problem involving sine curves,
+then leaning toward the drafting table to consider proportion, thread pitch,
+and color, pausing at the metal lathe to make a precision part, drilling
+countless holes in a piece of wood, always working toward the unparalleled
+excitement of switching on a sculpture for the very first time.
+
+Q: Do you find this work calming? meditative?
+
+#####  Theo Jansen
