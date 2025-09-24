@@ -466,4 +466,216 @@ excitement of switching on a sculpture for the very first time.
 
 Q: Do you find this work calming? meditative?
 
-#####  Theo Jansen
+#####  Alan Rath
+
+[Alan Rath](https://alanrath.net/) is a pioneer in electronic, kinetic, and
+robotic sculpture. Alan Rath has produced an ever-evolving body of work since
+the early 1980s. Rath was born in 1959 and has been fascinated with machinery
+from an early age. He cites important childhood influences that include NASA,
+Robert Moog, and Jimi Hendrix.
+
+[Video](https://www.youtube.com/watch?v=9BLp9zyejkM)
+
+Q: Do you find this work calming? meditative?
+
+#####  Jeff Mann and Michelle Teran
+
+[LiveForm:Telekinetics](https://vimeo.com/481096054?fl=pl&fe=sh)
+
+Experiments in connected social spaces
+
+LiveForm:Telekinetics creates experiences in transgeographic temporary
+performance zones. No longer tied to a terminal screen and keyboard, nomadic
+groups of social hackers pack mobile feasts of sensors, antennas, robotics,
+food, and music and head out on the town. Networked telepresence picnic
+parties unfold in vacant lots, roadsides, cafes, apartments, alleyways, bars
+and hotel lobbies – wherever bandwidth is plentiful and security guards
+scarce.
+
+Jeff Mann and Michelle Teran's LF:TK project is an artistic proposition for a
+re-imagination of networked reality. The events are not meant as entertainment
+for an audience, but as experimental and collaborative acts of creativity,
+research and development of new social forms, and interventions in public
+space.
+
+Jeff Mann (Hamilton, Canada, 1963) is a creator of electric art, using
+computers, electronics, robotics, sound, video, and telecommunications media.
+Since the mid-1980's, his work focus on online artists networks, telepresence
+performance, and interactive installation.
+
+Michelle Teran (born in Canada) is an educator, artist, and researcher. Her
+research areas encompass socially engaged and site-specific art,
+counter-cartographies, social movements, feminist and critical pedagogy.
+
+More
+[here](https://web.archive.org/web/20070214070929/http://www.lftk.org/tiki/tiki-index.php)
+
+##### [Stelarc](http://stelarc.org)
+
+- Born in Cyprus 1946
+- lives in Australian 
+- performance artist 
+- works focus heavily on extending the capabilities of the human body. As
+  such, most of his pieces are centred on his concept that "the human body is
+  obsolete". 
+
+- [Exoskeleton](https://www.youtube.com/watch?v=rTOGhVmye-A)
+- [Extended Arm](https://www.youtube.com/watch?v=PWSYkplTG2s)
+
+##### Bill Vorn [Hysterical Machines](https://billvorn.concordia.ca/robography/hysterical.html)
+
+[Video](https://www.youtube.com/watch?v=o0kRnEVIt20)
+
+This project is part of a larger research program on the Aesthetics of
+Artificial Behaviors and is very much inspired of a previous work based on the
+Misery of the Machines (Bill Vorn, LP Demers, La Cour des Miracles, 1997). It
+is conceived on the principle of deconstruction, suggesting dysfunctional,
+absurd and deviant behaviors through a functional machine. It operates on a
+dual-level process expressing the paradoxal nature of Artificial Life.
+
+The aim of this project is to induce empathy of the viewer towards characters
+which are nothing more than articulated metal structures. The strength of the
+simulacra is emphasized by perverting the perception of the creatures, which
+are neither animals nor humans, carried through the inevitable instinct of
+anthropomorphism and projection of our internal sensations, a reflex triggered
+by any phenomenon that challenges our senses.
+
+Born and living in Montreal, Bill Vorn has been active in the field of Robotic
+Art since 1992. His installations involve robotics, motion control, sound,
+lighting, video and cybernetic processes that evoke human qualities in
+articulated metal structures.
+
+##### Thecla Schiphorst [Soft(n)](https://v2.nl/works/softn)
+
+- Media artist, choreographer, dancer, and computer systems designer and
+  Associate Professor in the Computer Arts and Design Sciences Program at
+  Simon Fraser University in Vancouver, Canada.
+- Her background in performance and computing forms the basis for her research
+  which focuses on embodied interaction, sense-making, and the aesthetics of
+  interaction.
+- She is particularly interested in the poetic forms that cultivate affect,
+  materiality and experience-modeling within human computer interaction.
+- soft(n) explores intimacy and experience through physical interaction with
+  10-12 networked soft objects that exhibit emerging behavior when touched or
+  moved within a space.
+- The network recognizes the quality of tactile and kinesthetic interaction,
+  responding to how objects are touched or moved.
+- Interaction with the soft objects elicits behaviors such as humming,
+  shaking, sighing, singing and shared moving luminous patterns.
+- Each soft object is hand constructed and contains a specially designed,
+  hand-sewn and custom-engineered soft-intelligent-tactile input surface,
+  motion detectors, and an ability to respond through vibration, light, and
+  sound.
+
+##### Louis-Philippe Demers and Bill Vorn [Inferno](https://vimeo.com/130670526)
+
+Inferno is a robotic performance inspired by the representation of the
+different levels of hell as described in Dante's Inferno or the Singaporean
+Haw Par Villa's Ten Courts of Hell (which is based on a Chinese Buddhist
+representation). 
+
+The specificity of this performance resides in the fact that the different
+machines involved in the show are installed on the viewers' body. The public
+then becomes an active part of the performance. Sometimes the viewers are free
+to move; sometimes they are in a partial or entire submission position, forced
+by the machines to act/react in a certain way. Some mechanical elements coerce
+the viewers in performing certain movements; others induce a physical reaction
+from them. For this performance of about an hour long, we have built 25
+wearable robotic structures very similar to exoskeletons.
+
+##### [Can’t Help Myself by Sun Yuan and Peng
+Yu](https://www.youtube.com/watch?v=ZS4Bpr2BgnE)
+
+- Sun Yuan (born 1972) and Peng Yu (born 1974) are Chinese conceptual artists
+  whose work has a reputation for being confrontational and provocative.
+- They have lived and worked collaboratively in Beijing since the late 1990s.
+- They create pieces that dive deep into human nature, psychological, and
+  political experiences.
+- Can’t Help Myself was commissioned for the Guggenheim Museum.
+- Sun Yuan & Peng Yu employ an industrial robot, visual-recognition sensors,
+  and software systems to examine our increasingly automated global reality,
+  one in which territories are controlled mechanically and the relationship
+  between people and machines is rapidly changing.
+- Placed behind clear acrylic walls, their robot has one specific duty, to
+  contain a viscous, deep-red liquid within a predetermined area.
+- When the sensors detect that the fluid has strayed too far, the arm
+  frenetically shovels it back into place, leaving smudges on the ground and
+  splashes on the surrounding walls
+- Observed from the cage-like acrylic partitions that isolate it in the
+  gallery space, the machine seems to acquire consciousness and metamorphose
+  into a life-form that has been captured and confined in the space.
+- At the same time, for viewers the potentially eerie satisfaction of watching
+  the robot’s continuous action elicits a sense of voyeurism and excitement,
+  as opposed to thrills or suspense. In this case, who is more vulnerable: the
+  human who built the machine or the machine who is controlled by a human?
+- Sun Yuan & Peng Yu are known for using dark humor to address contentious
+  topics, and the robot’s endless, repetitive dance presents an absurd,
+  Sisyphean (denoting or relating to a task that can never be completed.) view
+  of contemporary issues surrounding migration and sovereignty.
+- However, the bloodstain-like marks that accumulate around it evoke the
+  violence that results from surveilling and guarding border zones. Such
+  visceral associations call attention to the consequences of authoritarianism
+  guided by certain political agendas that seek to draw more borders between
+  places and cultures and to the increasing use of technology to monitor our
+  environment.
+
+##### [End of Life Care Machine by Dan
+Chen](https://dankc.com/end-of-life-care-machine/)
+
+##### [In Love with the World by Anicka
+Yi](https://www.youtube.com/watch?v=6D2Ts9AtSQQ)
+
+[Interview](https://www.youtube.com/watch?v=6wyRHfImk3s)
+
+What would it feel like to share the world with machines that could live in
+the wild and evolve on their own? Anicka Yi transformed the Turbine Hall at
+the heart of Tate Modern with her vision of a new ecosystem. For Hyundai
+Commission: Anicka Yi: In Love With The World, Yi began with the question of
+what a “natural history of machines” could look and feel like, and built on
+previous work speculating on the possibilities of machines evolving into
+independent forms of life. Referencing the Turbine Hall’s original purpose of
+housing turbines of the former Bankside Power Station before the site was
+developed into a gallery, Yi populated the space with machines once again.
+
+Moving through the air, her floating machines—called aerobes—prompted viewers
+to think about new ways that machines might inhabit the world. Two species of
+aerobes explored the Turbine Hall, exhibiting individual and group behaviors
+in response to different elements of their environment. “Xenojellies” have
+semitransparent bodies each with a different colored top and patterned
+tentacles, while ‘planulae’ are bulbous and covered by short yellow hair.
+These aerobes allowed Yi to imagine new possibilities for artificial
+intelligence, inspired by the diverse ways that organisms learn through their
+bodies and senses.
+
+Anicka Yi (b. 1971, Seoul, Korea) fuses artistic imagination and scientific
+research. Drawing on disciplines as wide ranging as biology, biochemistry,
+anthropology and philosophy, her work speculates about the present in relation
+to our shared futures including the evolution of artificial intelligence,
+climate emergency and migration. She has been the subject of solo exhibitions
+at museums including the Solomon R. Guggenheim Museum in New York (2017),
+Fridericianum in Kassel (2016), and Kunsthalle Basel (2015). Her works have
+featured in the Venice Biennale in 2019, the Whitney Biennial in 2017 and the
+Gwangju Biennale in 2016, as well as in many group exhibitions around the
+world. She won the Hugo Boss Prize in 2016 and has held residencies and
+fellowships at the Berggruen Institute in Los Angeles, the Headlands Center
+for the Arts, and the Center for Art Science and Technology at MIT.
+
+From the point of view of the
+engineers](https://www.commarts.com/project/35154/in-love-with-the-world)
+
+##### So many more!!!!!
+
+- Garnet Hertz
+- HeHe
+- Sebastian Wolf
+- Myfanwy Ashmore – Soma/Somo
+- Wim Delvoye – Coaca
+- Yunchul Kim
+- Madeline Gannon
+- Chico MacMurtrie
+- Theo Jansen
+
+#### Homework
+- In the [syllabus](https://github.com/michaelshiloh/understandinginteractivemedia/blob/main/syllabus.md#group-activity-2)
+- Sign up
+  [here](https://docs.google.com/spreadsheets/d/1w7-6CPpIk8KJ1PGflO4GyfTNLMPXfhM6RcgevjqOXx0/edit?usp=sharing) for your groups subject so that we don't have duplicates
