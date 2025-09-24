@@ -213,10 +213,9 @@ class cancelled
     - Open to all IM majors, minors, and students enrolled in IM classes
 
 
-### Thursday September 18 week 3
+### Thursday September 18 week 4
 - Group presentations, Interactive Media
 
-#### todays-lecture
 ### Tuesday September 23 week 5
 - Finish last presentation
 - Attention
@@ -347,6 +346,10 @@ analogous to terror, is a source of the sublime’."
 
 More
 [videos](https://www.youtube.com/@survivalresearchlabs)
+
+#### todays-lecture
+### Thursday September 24 week 5
+Machine Art (continued)
 
 #####  Rebecca Horn
 
