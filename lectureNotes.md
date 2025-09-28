@@ -1,5 +1,6 @@
 Shortcut to [today's assignment](homework.md#todays-assignment)  
 Shortcut to [today's lecture](lectureNotes.md#todays-lecture)  
+Shortcut to [groups](https://docs.google.com/spreadsheets/d/1w7-6CPpIk8KJ1PGflO4GyfTNLMPXfhM6RcgevjqOXx0/edit?usp=sharing)
 
 ## New York University Abu Dhabi  
 ## Interactive Media Program
@@ -347,7 +348,6 @@ analogous to terror, is a source of the sublime’."
 More
 [videos](https://www.youtube.com/@survivalresearchlabs)
 
-#### todays-lecture
 ### Thursday September 24 week 5
 Machine Art (continued)
 
@@ -682,3 +682,8 @@ engineers](https://www.commarts.com/project/35154/in-love-with-the-world)
 - In the [syllabus](https://github.com/michaelshiloh/understandinginteractivemedia/blob/main/syllabus.md#group-activity-2)
 - Sign up
   [here](https://docs.google.com/spreadsheets/d/1w7-6CPpIk8KJ1PGflO4GyfTNLMPXfhM6RcgevjqOXx0/edit?usp=sharing) for your groups subject so that we don't have duplicates
+
+#### todays-lecture
+### Tuesday September 30 Week 6
+- Reading discussion
+- Group work

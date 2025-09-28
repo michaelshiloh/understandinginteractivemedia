@@ -1,5 +1,6 @@
 Shortcut to [today's assignment](homework.md#todays-assignment)  
 Shortcut to [today's lecture](lectureNotes.md#todays-lecture)  
+Shortcut to [groups](https://docs.google.com/spreadsheets/d/1w7-6CPpIk8KJ1PGflO4GyfTNLMPXfhM6RcgevjqOXx0/edit?usp=sharing)
 
 ## New York University Abu Dhabi  
 ## Interactive Media Program
