@@ -685,5 +685,19 @@ engineers](https://www.commarts.com/project/35154/in-love-with-the-world)
 
 #### todays-lecture
 ### Tuesday September 30 Week 6
+- Grading reading responses
 - Reading discussion
 - Group work
+
+#### Grading reading responses
+- Your thoughts, not summary
+- Words like "compelling" and phrases like "What struck me most" and
+  "This raises a fundamental question" and "I was struck" and "prompted me to
+  reconsider"
+- Avoid phrases like "A and B, C and D"
+
+#### Reading discussion
+- Zombie Media
+- Machine Art in the Twentieth Century 
+- Interventionists: Users' Manual for the Creative Disruption of Everyday Life 
+- The Critical Engineering Manifesto 
