@@ -686,6 +686,7 @@ engineers](https://www.commarts.com/project/35154/in-love-with-the-world)
 #### todays-lecture
 ### Tuesday September 30 Week 6
 - Grading reading responses
+- Participation grade
 - Reading discussion
 - Group work
 
