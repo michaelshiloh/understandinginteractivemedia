@@ -683,7 +683,6 @@ engineers](https://www.commarts.com/project/35154/in-love-with-the-world)
 - Sign up
   [here](https://docs.google.com/spreadsheets/d/1w7-6CPpIk8KJ1PGflO4GyfTNLMPXfhM6RcgevjqOXx0/edit?usp=sharing) for your groups subject so that we don't have duplicates
 
-#### todays-lecture
 ### Tuesday September 30 Week 6
 - Grading reading responses
 - Participation grade
@@ -702,3 +701,15 @@ engineers](https://www.commarts.com/project/35154/in-love-with-the-world)
 - Machine Art in the Twentieth Century 
 - Interventionists: Users' Manual for the Creative Disruption of Everyday Life 
 - The Critical Engineering Manifesto 
+
+#### todays-lecture
+### Thursday September 24 week 5
+- Group presentations
+- Next week: Net Art and Post-Internet Art
+
+#### Group presentations 
+"As a group, choose an artist or artwork from the Group presentations: "As a
+group, choose an artist or artwork from the readings or lecture that excited
+or resonated with you. How would you update that artwork today, or connect it
+to an issue you feel passionate about? In small groups create a work of
+machine art that updates and/or re-focuses your chosen artist/artwork."
