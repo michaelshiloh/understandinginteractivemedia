@@ -713,3 +713,31 @@ group, choose an artist or artwork from the readings or lecture that excited
 or resonated with you. How would you update that artwork today, or connect it
 to an issue you feel passionate about? In small groups create a work of
 machine art that updates and/or re-focuses your chosen artist/artwork."
+
+
+### Tuesday October 10 week 6
+- Lecture and discussion: Net Art and Post Internet Art
+
+
+C obfuscation contest 
+International Obfuscated C Code Contest
+
+
+
+## stories
+
+<details closed ><summary>story 1</summary>
+<p>
+    subversion
+    <details closed ><summary>story 2</summary>
+    <p>
+        louvre, motf
+        <details closed ><summary>story 3</summary>
+        <p>
+            AI class, library kids
+        </p>
+        </details>
+    </p>
+    </details>
+</p>
+</details>
