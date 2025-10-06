@@ -718,26 +718,308 @@ machine art that updates and/or re-focuses your chosen artist/artwork."
 ### Tuesday October 10 week 6
 - Lecture and discussion: Net Art and Post Internet Art
 
+#### Lecture and discussion: Net Art and Post Internet Art
 
-C obfuscation contest 
-International Obfuscated C Code Contest
+##### Internet or internet?
+- When the Internet first came into common use, most publications treated
+  Internet as a capitalized proper noun
+- However now, many publications such as the AP Stylebook, recommend the
+  lowercase form in every case.
+- This reflects the tendency in English to capitalize new terms and move them
+  to lowercase as they become familiar. 
+
+##### Internet art 
+![net.flag by Mark Napier]media/net.flag.png
+- A genre of art that emerged in the late 1980s 
+- Uses the internet as a tool for production and especially distribution of
+  works. Thus the internet becomes the **medium** as well
+- Challenges the dominance of the physical gallery and museum system, and
+  hence curation and marketing
+- Often, but not always, interactive, participatory, and multimedia-based.
+- More about Mark Napier [here](https://www.potatoland.org/)
+
+##### net.art
+- [Example](https://superdry.breitbart.blue/)
+- Net.art as a visual art form is characterized by its direct engagement with
+  the internet's fundamental elements. 
+- Artists working in this genre frequently use the internet itself, including
+  web browsers, HTML code, hyperlinks, and digital data, as both their medium
+  and subject matter. 
+- This approach often results in artworks that explore the unique aesthetics
+  and functionalities of the online environment.
+- Is a movement and a critical and political landmark in Internet art history
+- Not a genre
+- net.art promoted the modernist idea of the work of art as a process, as
+  opposed to the view of art as object 
+- net.artists have actively participated in the debate over the definition of
+  net.art
+- There is still much confusion and disagreement
+- More [here](https://aesthetics.fandom.com/wiki/Net.art)
+- The History of the Web chapter on
+  [net.art](https://thehistoryoftheweb.com/net-art/)
+- Another [example](https://net-art.org/) 
+- Another [example](http://www.ghostcity.com/avenue-s/index.html)
+
+##### Post-internet art
+- Emerged in the mid-2000s
+- Instead of taking the internet as its **medium**, post-internet artists take
+  the internet as **subject matter**, posing issues such as surveillance,
+  infrastructure, and control over the internet.
+- As so much material is digitized and available on the internet, authorship,
+  collaboration, and materiality requires redefinition
+- Also needed is a new theoretical and aesthetic notions of how and where art
+  is made, viewed, marketed and collected.
+- Artist and writer [Marisa Olson](http://www.marisaolson.com/aboutme.html)
+  coined the term 
+    - Reinforces the idea that post internet is about its environment and
+      predecessor as much as it is about the contemporary culture. Her
+      definition acknowledges that internet art can no longer be distinguished
+      as that which is strictly computer- or internet-based, but can be
+      identified as any kind of art that is influenced in some way by the
+      internet and digital media, and addresses their impacts on culture at
+      large. 
+    - This can be done well on networks but can and should also exist offline.
+    - Marisa Olson defines the term as “(my) online and offline work was
+      ’after’ the internet in the sense that ’after’ can mean both ’in the
+      style of’ and ’following’. For illustration, I referred to the concept
+      of postmodernity coming not at the ’end’ of modernity, but ’after’ (and
+      with a critical awareness of) modernity”.
+- Artist [Artie Vierkant](http://artievierkant.com/imageobjects.php) argues
+  that this shift from internet art to post internet art occurs when artists
+  act less as interpreter, transcriber, narrator, curator, architect and more
+  as fully engaged participants. 
+    - He sees the term as nothing more than a result of the contemporary
+      moment: inherently “informed by ubiquitous authorship, the development
+      of attention as currency, the collapse of physical space in networked
+      culture, and the infinite reproducibility and mutability of digital
+      materials”
+- Writer and curator Gene McHugh take on post-internet art: art responding to
+  [a condition] described as 'Post Internet'–when the Internet is less a
+  novelty and more a banality.
+
+##### In summary
+
+- Net art: the internet as a tool and a medium
+- Post-internet art: critical awareness of the internet and its impact on art
+  and culture
+
+##### Reabracadabra (Eduardo Kac, 1985)
+![Reabracadabra by Eduardo Kac, 1985](media/reabracadabra.png)
+- Eduardo Kac (pronounced Katz) is internationally recognized for his
+  groundbreaking work in contemporary art and poetry. 
+- In the mid 1980s, Kac created digital, holographic and online works that
+  anticipated the global culture we live in today, composed of ever-changing
+  information in constant flux.
+- Brazilian artist Eduardo Kac created his digital poem, “Reabracadabra,” in
+  1985 for the now-defunct Minitel network, a precursor to the Internet that
+  connected users via computer terminals and telephone lines. 
+- One of the early projects in Net Art.
+- “Reabracadabra” raises questions about ownership, materiality, networks, and
+  preservation.
+- Kac framed this piece as immaterial, with no original. 
+- After Minitel was discontinued, the work became inaccessible. For years, its
+  data was saved on an 8-inch floppy disk. Over a fifteen year period, the
+  artist enlisted a research team to help restore and transmit it into the
+  custom-made Minitel terminal you see here (it was also later transferred to
+  video).
+- The Minitel system allows users to log on with a remote terminal and access
+  sequences of pages through regular phone lines.
+- Under the name "Minitel", France implemented a comprehensive network that
+  was widely used throughout the 1980s.
+- This Minitel network was a precursor to today's Internet and functioned very
+  much like it, with sites containing information about countless subjects. It
+  also allowed users to send messages to one another (email). 
+- In 1984 Minitel terminals were distributed to subscribers free of charge,
+  which helped to further popularize the network. 
+- From 1983 to 1994 (the year of the Internet boom), use of the Minitel grew
+  continuously. In 1995 there were 7 million Minitel terminals in France. It
+  was also possible to access the Minitel through the web. France discontinued
+  the Minitel service in 2012.
+- [Video](https://vimeo.com/189945892)
+
+##### Interfaces (Eduardo Kac, 1990)
+[Here](https://www.ekac.org/sstv.html)
+- This new art is collaborative and interactive and abolishes the state of
+  unidirectionality traditionally characteristic of literature and art.
+- Worked with fax and slow-scan TV (SSTV) as artistic media.
+- Slow scan TV due to low data rate on phone lines
+- erased the old boundaries of regionalism or nationalistic art. 
+- Telematic art is art projects using computer-mediated telecommunications
+  networks as their medium
+- At the time, created the possibility of a new setting for interactive
+  participation between individuals and groups. 
+- Telematics provides a means for instantaneous (to the extent that the data
+  rate allowed) and immediate information exchange
+- Bidirectional so allowed individuals a choice between simple retrieval or
+  intricate collaborative art events. 
+
+##### Genesis (Eduardo Kac, 1999)
+![Genesis (Eduardo Kac, 1999)](media/genesis.png)
+- In 1997 Eduardo coined the term "Bio Art" of which Genesis is an example
+- Is a transgenic artwork that explores the intricate relationship between
+  biology, belief systems, information technology, dialogical interaction,
+  ethics, and the Internet.
+- Starts with an "artist's gene", a synthetic gene that was created by Kac by
+  translating a sentence from the biblical book of Genesis into Morse Code,
+  and converting the Morse Code into DNA base pairs according to a conversion
+  principle developed by the artist 
+- The sentence
+  reads: "Let man have dominion over the fish of the sea, and over the fowl of
+  the air, and over every living thing that moves upon the earth." It was
+  chosen for what it implies about the dubious notion–divinely sanctioned–of
+  humanity's supremacy over nature. 
+- Morse code was chosen because, as the first example of the use of
+  radiotelegraphy, it represents the dawn of the information age–the genesis
+  of global communication. 
+- The Genesis gene was incorporated into bacteria, which were shown in the
+  gallery. 
+- Participants on the Web could turn on an ultraviolet light in the gallery,
+  causing real, biological mutations in the bacteria. 
+- This changed the biblical sentence in the bacteria. 
+- After the show, the DNA of the bacteria was translated back into Morse code,
+  and then back into English. The mutation that took place in the DNA had
+  changed the original sentence from the Bible.
+- The mutated sentence was posted on the Genesis web site. 
+- The ability to change the sentence is a symbolic gesture meaning that we
+  do not accept its meaning in the form we inherited it, and that new meanings
+  emerge as we seek to change it.
+
+##### Jodi (Joan Heemskerk and Dirk Paesmans, 1995)
+[https://wwwwwwwww.jodi.org/](https://wwwwwwwww.jodi.org/)
+- Was one of the first to use the internet's creative possibilities
+- They both have a background in photography and video art.
+- Paesmans also studied with the founder of video art Nam June Paik.
+- Open link, then view source (CTRL-u)
+- Generated by inserting ASCII drawings of hydrogen bomb blueprints into the
+  body of the code, forcing the browser to misread the characters comprising
+  these images as if they were lines of HTML. 
+- If the goal of the internet is to facilitate the spread of information, the
+  transformation of an ordered diagram into a disordered jumble of text
+  immediately blocks communication’s path.  
+- “The work we make is not politically oriented, except that it stands in the
+  net like a brick.”
+
+##### Scrollbar Composition (Jan Robert Leegte, 2000)
+[Visit](http://www.scrollbarcomposition.com/)
+- Reflects on a key element of digital and net-based art: the volatility of
+  digital materials due to the ever-continuous updating of software and
+  digital obsolescence.  The appearance of the artwork is dependent on the
+  operating system and browser that is being.
+- Jan Robert Leegte first studied architecture before he switched to fine arts
+  and interaction design.
+- Since 1997 he has been making art in the form of websites 
+- was involved in the 90s net art movement. 
+- also translates his online work into offline work such as sculptures,
+  prints, or projections.
+- Leegte uses typical elements of the digital interfaces of computer programs
+  in his work, like scrollbars and mouse pointers, and places them in a new
+  context. 
+- Scrollbar Composition has also been executed (translated) in different
+  physical sculptures and installations, giving the virtual elements their own
+  sculptural legitimacy.
+- See [here](https://www.leegte.org/)
+
+##### 1:1 (Lisa Jevbratt, 1999-2001)
+![1:1 by Lisa Jevbratt, 1999-2001](media/1to1.jpg)
+- Created in 1999 which consisted of a database that would eventually contain
+  the addresses of every Web site in the world and interfaces through which to view 
+  the database
+- Five interfaces (Migration, Hierarchical, Every, Random, Excursion)
+  visualize the databases and provide means of using the databases to access
+  and navigate the Web. The Migration interface reveals in one image how the
+  Web has "moved" over the last few years. The other four interfaces show the
+  two databases in parallel.
+- Explored the expressions and exchanges created by the protocols and
+  languages of the Internet and the Web, often manifesting as visualization
+  software.
+- Crawlers (automated program) were sent out on the Web to determine whether
+  there was a Web site at a specific numerical address (IP address).  If a
+  site existed, the address was stored in the database.  
+- In 2001 realized that the web was growing too quickly and that the database
+  would never catch up
+- The numerical addresses used for all computers connected to the Internet are
+  called IP (Internet Protocol) addresses. 
+- A URL, the name of a site that we
+  usually use, is really just a cover for the IP address 
+- e.g. nyu.edu is 216.165.61.24 and michaelshiloh.com is 64.68.202.11
+- More [here](https://rosebud.arts.ucsb.edu/~jevbratt/1_to_1/index_ng.html)
+
+##### Telegarden (Ken Goldberg, 1995-2004)
+- [Here](https://goldberg.berkeley.edu/garden/Ars/)
+- Ken Goldberg is a roboticist, filmmaker, artist and popular public speaker
+  on AI and robotics.
+- The Telegarden was an art installation that allowed web users to view and
+  interact with a remote garden filled with living plants.
+- Anyone online could plant, water, and monitor the progress of seedlings via
+  the tender movements of an industrial robot arm.
+- "The Telegarden creates a physical garden as an environment to stage social
+  interaction and community in virtual space.  The Telegarden is a metaphor
+  for the care and feeding of the delicate social ecology of the net."
+
+##### We Feel Fine (Jonathan Harris, 2006)
+- Description is [here](https://jjh.org/we-feel-fine)
+- Artwork is [here](http://wefeelfine.org/)
+- An exploration of human emotion through large-scale blog analysis, expressed
+  through six interactive movements.
+- Jonathan Jennings Harris (born Aug. 27, 1979) is an American artist and
+  computer scientist, known for his work with data visualization, interactive
+  documentary, and ritual.
+- We Feel Fine has been harvesting human feelings from a large number of
+  weblogs. 
+- Every few minutes, the system searches the world’s newly posted blog entries
+  for occurrences of the phrases ‘I feel’ and ‘I am feeling.’ When it finds
+  such a phrase, it records the full sentence, up to the period, and
+  identifies the ‘feeling’ expressed in that sentence (sad, happy, depressed,
+  etc.). 
+- Because blogs are structured in largely standard ways, the age, gender, and
+  geographical location of the author can often be extracted and saved along
+  with the sentence, as can the local weather conditions at the time the
+  sentence was written. 
+- All of this information is saved, resulting in a database of human feelings
+  that increases by 15,000—20,000 new feelings per day.
+- The interface to this data is a self-organizing particle system, where each
+  particle represents a single feeling posted by a single individual. The
+  particles’ properties (color, size, shape, opacity) indicate the nature of
+  the feeling inside, and any particle can be clicked to reveal the full
+  sentence or photograph that it contains. 
+- The particles careen wildly around the screen until asked to self-organize
+  along any number of data-based axes, expressing various pictures of human
+  emotion, which We Feel Fine then paints in six formal movements: Madness,
+  Murmurs, Montage, Mobs, Metrics, and Mounds.
+- At its core, We Feel Fine is an artwork authored by everyone. It will grow
+  and change as we grow and change, reflecting what’s on our blogs, what’s in
+  our hearts, what’s on our minds. We hope it makes the world seem a little
+  smaller, and that it helps people see beauty in the everyday ups and downs
+  of life.
+- Artist [TED talk](https://www.ted.com/talks/jonathan_harris_the_web_as_art)
+
+##### More
+- Geo Goo (JODI)
+- Exonemo (Kensuke Sembo and Yae Akaiwa)
+- Image Objects (Artie Vierkant)
+- Panoramafreiheit (Oliver Laric)
+- True Life: I’m a Selfie (Petra Cortright)
+- Keep Alive (Aram Bartholl)
+- Feminism is a Browser (Charlotte Eifler)
+- Shmoogle (
+
+##### So many others!
+- Auria Harvey, Michael Samyn - Eden Web
+- Julia Scher – Securityland
+- Peter Root – DDD
+- Ryan Trecartin – Any Ever
+- Seth Price – Double Hunt
+- Jon Rafman – 9 Eyes
+- TeamLab – Matter is Void
 
 
 
-## stories
 
-<details closed ><summary>story 1</summary>
-<p>
-    subversion
-    <details closed ><summary>story 2</summary>
-    <p>
-        louvre, motf
-        <details closed ><summary>story 3</summary>
-        <p>
-            AI class, library kids
-        </p>
-        </details>
-    </p>
-    </details>
-</p>
-</details>
+
+
+
+
+
+
+
+
