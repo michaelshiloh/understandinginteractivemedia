@@ -729,7 +729,7 @@ machine art that updates and/or re-focuses your chosen artist/artwork."
   to lowercase as they become familiar. 
 
 ##### Internet art 
-![net.flag by Mark Napier]media/net.flag.png
+![net.flag by Mark Napier](media/net.flag.png)
 - A genre of art that emerged in the late 1980s 
 - Uses the internet as a tool for production and especially distribution of
   works. Thus the internet becomes the **medium** as well
