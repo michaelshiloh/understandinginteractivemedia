@@ -993,19 +993,96 @@ machine art that updates and/or re-focuses your chosen artist/artwork."
   of life.
 - Artist [TED talk](https://www.ted.com/talks/jonathan_harris_the_web_as_art)
 
-##### - Geo Goo (JODI, 2008)
+##### Geo Goo (JODI, 2008)
 ![](media/geoGoo.webp)
+- One of JODI's themes is the
+  using and misusing the visual aesthetics, interface elements, commands,
+  errors, and codes of the internet
+- In GEO GOO, They invert the function of a map, unburdening it from any
+  responsibility to accurately depict or represent a territory. 
+- Appropriating the visual interface and iconography of Google Maps and Google
+  Earth and using them for their own purpose
+
+##### Exonemo (0 to 1 / 1 to 0, 2019)
+- Exonemo is Kensuke Sembo and Yae Akaiwa
+- Project is [here](https://exonemo.com/#works+29)
+- The webpage is still functional in its minimized state
+- In the natural world, the two- to three-minute change between night and day
+  marks a powerful yet gradual transition that has no equivalent in the
+  digital space, where the switch between the binary code of 0s and 1s is
+  discontinuous. 
+- Contrasting the interconnectedness of the digital and natural world with
+  their fundamental differences.
+
+##### Oliver Laric (Panoramafreiheit, 2017)
+- Visit [here](http://oliverlaric.com/panoramafreiheit.html)
+- Reflects his artistic mirroring of the Internet’s open-source ethics.
+- Distancing the object further and further away from its “original”,
+  emphasizing the mutability of authorship and denying singularity. 
+- The object becomes open-ended, its structures free to be modified and
+  authored by whoever wants to.
+- investigates the productive potential of the copy, the bootleg and the remix
+  in order to examine the role they play in the creation of historic and
+  contemporary image cultures.
+- Based on Max Klinger’s 1902 Beethoven monument of bronze, ivory and alabaster
+
+##### More True Life: I’m a Selfie (Petra Cortright) 2007-present
+![](media/petraCortright.png)
+- Creates her videos as self-portraits, rather than selfies. 
+- Uses a webcam or back of phone camera
+- While Cortright named her piece I’m a Selfie, she mocks selfie-culture.  
+- Rapid movements and change of poses do not allow her to capture a still
+  photo worthy of sharing on the internet. 
+- Over exaggerated facial expressions represent a selfie extreme, polarizing a
+  selfie from a self-portrait. 
+- While selfies often focus on face, ego, and body, Cortright argues that
+  self-portraits are rather opposite. Selfies are taken by the 10’s and 20’s,
+  until the perfect head tilt, hair style, puckered lips, and background are
+  captured in a single shot.  In contrast, Cortright’s videos are uploaded
+  after a single take.  Selfie-culture embodies perfectionism, where
+  Cortright’s work does not.
+
+
+##### - Keep Alive (Aram Bartholl, 2015)
+![](media/keepAlive.jpg)
+- Outdoor sculpture rock, steel, router, usb-key, thermoelectric generator,
+  fire, software, PDF database 
+- Boulder contains thermoelectric generator which powers a web server and WiFi
+  access point which serves a collection of PDF survival guides
+- Not connected to the internet!
+- Visitors can download guides and upload anything they would like
+- Aram Bartholl focuses on the interfaces and relationships between online and
+  offline worlds
+- Keepalive refers to a technical situation where communicating nodes send
+  each other a message just to maintain the connection
+- Uses [piratebox](https://piratebox.cc/faq)
+    - DIY anonymous offline file-sharing and communications system built with
+      free software and inexpensive off-the-shelf hardware.
+    - Created in 2011 by David Darts, a professor at the Steinhardt School of
+      Culture, Education and Human Development at New York University 
+
+##### Feminism is a Browser (Charlotte Eifler) 2019
+- Documentary film
+- Video [here](https://www.youtube.com/watch?v=keHwQl4raEc)
+- “Feminism is a Browser” follows the journey of a fictional cyber entity
+  called Yeva, who connects to the international feminist network FACES,
+  founded in the 1990s by the media pioneers Diana McCarty, Valie Djordjevic
+  and Kathy Rae Huffman.
+- [FACES](https://www.faces-l.net/index.php/sample-page/) email list started
+  in 1997 by women in media not seeing women represented in European media
+  arts and media culture events 
+- This constant question, and the desire to find out what women were doing
+  with new media defined a gap in the existing structures and networks.
+- It was the start to what would become an international network of women in
+  media: artists, programmers, theorists, designers, curators, activists &
+  djs, along with with an assortment of other digital workers.
+
+##### Shmoogle (Tsila Hassine), 2005
+- Visit [here](shmoogle.world)
+- Displays the Google search results in random order
+- Questions the implicit control that Google has over our access to web pages
 
 ##### More
-- Exonemo (Kensuke Sembo and Yae Akaiwa)
-- Image Objects (Artie Vierkant)
-- Panoramafreiheit (Oliver Laric)
-- True Life: I’m a Selfie (Petra Cortright)
-- Keep Alive (Aram Bartholl)
-- Feminism is a Browser (Charlotte Eifler)
-- Shmoogle (
-
-##### So many others!
 - Auria Harvey, Michael Samyn - Eden Web
 - Julia Scher – Securityland
 - Peter Root – DDD
@@ -1015,13 +1092,8 @@ machine art that updates and/or re-focuses your chosen artist/artwork."
 - TeamLab – Matter is Void
 
 
-
-
-
-
-
-
-
-
-
+#### Homework for after the break
+- Reading reflection due Oct 21
+- Group project Oct 23
+- Reading discussion on Oct 21 will be via Zoom
 
