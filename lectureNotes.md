@@ -702,7 +702,6 @@ engineers](https://www.commarts.com/project/35154/in-love-with-the-world)
 - Interventionists: Users' Manual for the Creative Disruption of Everyday Life 
 - The Critical Engineering Manifesto 
 
-#### todays-lecture
 ### Thursday September 24 week 5
 - Group presentations
 - Next week: Net Art and Post-Internet Art
@@ -715,7 +714,7 @@ to an issue you feel passionate about? In small groups create a work of
 machine art that updates and/or re-focuses your chosen artist/artwork."
 
 
-### Tuesday October 10 week 6
+### Tuesday October 7 week 6
 - Lecture and discussion: Net Art and Post Internet Art
 
 #### Lecture and discussion: Net Art and Post Internet Art
@@ -955,6 +954,9 @@ machine art that updates and/or re-focuses your chosen artist/artwork."
 - "The Telegarden creates a physical garden as an environment to stage social
   interaction and community in virtual space.  The Telegarden is a metaphor
   for the care and feeding of the delicate social ecology of the net."
+
+#### todays-lecture
+### Thursday October 9 Week 6
 
 ##### We Feel Fine (Jonathan Harris, 2006)
 - Description is [here](https://jjh.org/we-feel-fine)
