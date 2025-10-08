@@ -993,8 +993,10 @@ machine art that updates and/or re-focuses your chosen artist/artwork."
   of life.
 - Artist [TED talk](https://www.ted.com/talks/jonathan_harris_the_web_as_art)
 
+##### - Geo Goo (JODI, 2008)
+![](media/geoGoo.webp)
+
 ##### More
-- Geo Goo (JODI)
 - Exonemo (Kensuke Sembo and Yae Akaiwa)
 - Image Objects (Artie Vierkant)
 - Panoramafreiheit (Oliver Laric)
