@@ -1099,3 +1099,25 @@ machine art that updates and/or re-focuses your chosen artist/artwork."
 - Group project Oct 23
 - Reading discussion on Oct 21 will be via Zoom
 
+#### todays-lecture
+### Tuesday October 21 week 7
+- Lead a workshop!
+- Reading discussion
+- Homework for Thursday
+
+#### Lead a workshop!
+![](media/IMSandbox_Poster.png)
+
+#### Reading discussion
+- Mark Tribe, and Reena Jana. 2006. New Media Art. Hong Kong: Taschen. 
+  Read the entire book.
+- Hito Steyerl. 2013. "Too Much World: Is the Internet Dead?" E-Flux, no. 49
+  (November). 
+
+#### Homework for Thursday
+Drawing on readings and class discussions, make a piece of internet-based art.
+This can be literally using the internet as a medium or responding to the
+internet in another way, as we saw in "post-internet" art.  Describe which art
+works and ideas from the class materials inspired your piece in your
+documentation.
+
