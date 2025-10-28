@@ -1099,7 +1099,6 @@ machine art that updates and/or re-focuses your chosen artist/artwork."
 - Group project Oct 23
 - Reading discussion on Oct 21 will be via Zoom
 
-#### todays-lecture
 ### Tuesday October 21 week 7
 - Lead a workshop!
 - Reading discussion
@@ -1120,4 +1119,368 @@ This can be literally using the internet as a medium or responding to the
 internet in another way, as we saw in "post-internet" art.  Describe which art
 works and ideas from the class materials inspired your piece in your
 documentation.
+
+#### todays-lecture
+### Tuesday October 28 week 8
+- Experiment
+- Lecture and discussion: Environmental and Spatial Art
+
+Slide 2
+
+A public artwork is an artwork in any medium, planned and executed outside a
+gallery context and intended specifically for exhibition within public space.
+
+Public spaces are generally open and accessible to all. They can be indoors –
+such as foyers, atriums, airports or shopping centres – or outdoors – such as
+forecourts, parks, squares, freeways or plazas.
+
+Slide 3
+
+metaverse – a virtual world in which the users interact while represented by
+avatars
+
+Sometimes used to refer to a single, persistent, and connected virtual
+reality, but this doesn't exist yet.
+
+Slide 4
+
+Guy Debord was a French Marxist theorist, philosopher, filmmaker, critic of
+work, member of the Letterist International 
+
+Letterist International was a Paris-based collective of radical artists and
+cultural theorists, a group that went on to join others in forming the
+Situationist International, taking some key techniques and ideas with it.
+
+Situationist International (SI) was an international organization of social
+revolutionaries made up of avant-garde artists, intellectuals, and political
+theorists. The situationists believed that the shift from directly lived
+experiences, to experience by proxy through consumerism or by viewing
+"spectacles", damaged both individuals and society. To counteract the
+spectacle, they created situations, moments of life deliberately
+constructed for the purpose of reawakening and pursuing authentic desires,
+experiencing the feeling of life and adventure, and the liberation of everyday
+life.
+
+Marxism: views class struggle as the central driving force of historical
+change.  Posits that the ruling class (the bourgeoisie), who own the means of
+production, systematically exploit the working class (the proletariat), who
+must sell their labour power to survive. This relationship, according to Marx,
+leads to alienation, periodic economic crises, and escalating class conflict.
+Marx theorised that these internal contradictions would fuel a proletarian
+revolution, leading to the overthrow of capitalism and the establishment of a
+socialist mode of production. For Marxists, this transition represents a
+necessary step towards a classless, stateless society.
+
+Slide 5 (Anish Kapoor, 2006)
+
+Sir Anish Kapoor is a British-Indian, sculptor specializing in installation
+art and conceptual art.
+
+Cloud Gate is the centerpiece of Grainger Plaza at Millennium Park, a park
+built to celebrate the third millennium in Chicago, Illinois. The park is the
+#2 Chicago tourist attraction.
+
+Constructed between 2004 and 2006, the sculpture is nicknamed "The Bean"
+because of its shape, a name Kapoor initially disliked, but later grew fond
+of. Kapoor himself even uses this title when referring to his work. Made up of
+168 stainless steel plates welded together, its highly polished exterior has
+no visible seams.
+
+Kapoor's design was inspired by liquid mercury and the sculpture's surface
+reflects and distorts the city's skyline.
+
+At the right time of day and angle, Cloud Gate becomes indistinguishable from
+the sky.
+
+This warping of space and expectation is just part of the wonder that is The
+Bean. Kapoor’s work often works with limits and limitlessness, among
+many other topics of duality. The sculpture gives an essence of lightness
+regardless of its significant mass.
+
+Reception:
+
+Time magazine describes the piece as an essential photo opportunity, and more
+of a destination than a work of art. The New York Times writes that it is both
+a "tourist magnet" and an "extraordinary art object". USA Today refers to the
+sculpture as a monumental abstract work. A Chicago art critic considers Cloud
+Gate to be among the greatest pieces of public art in the world.
+
+Slide 6 - Wrapped ( Christo and Jeanne-Claude, 2021)
+
+Christo was a refugee from Eastern Europe during the second world war Started
+wrapping things in 1958 - He was interested in their volume, form rather than
+specific materiality and he talks about this as a process of “mummifying”, a
+practice he performed unconsciously: “I don’t know why I wrapped things”. At
+the time it was interpreted as the actions of a nomad figuratively packing his
+bags.
+
+Also in 1958 met his wife and artistic partner Jeanne-Claude. Christo 
+passed away in 2009
+
+Some famous wraps include the Reichstag in Berlin, The Pont Neuf Wrapped in
+Paris, The Gates in New York, and Running Fence in California.
+
+
+L'Arc de Triomphe Wrapped ran for 2 weeks in 2021
+
+The huge quantities of fabric and ropes used in the installation have all been
+made from polypropylene, a type of thermoplastic that is recyclable.
+
+Christo had previously said that these materials will also move in the wind
+and reflect light to evoke "a living object" so that "people will want to
+touch" it.
+
+The direct concept behind the wrapping is not explicit; however, scholars have
+theories as to Christo and Jeanne-Claude's intentions. Christo went to art
+school in Bulgaria under a communist government. This restricted many
+opportunities through his art and education, so people believed the wrapping
+of monuments represented freedom.
+
+Christo also opposed the widespread notion that a tremendous honor is
+sacrificing oneself for their country. Covering a monument that represents the
+tomb of unknown soldiers may have been a public challenge to this notion.
+Napoleon originally commissioned the structure, and King Louis XVIII later
+took it over to commemorate controversial portions of French history. The
+coverage of the arch may have been to denounce a history that is shameful for
+many citizens.
+
+Slide 7 - The Wreckage (Ai Weiwei, 2016)
+
+Ai Weiwei is a Chinese contemporary artist and activist.  In his work, there
+is no division between art and politics.  Throughout his career, the artist
+has never shied away from difficult truths and has resolutely fought for
+freedom of expression.
+
+Through sculpture, film, installation, photography and architecture – and
+across an array of materials including ceramics, marble, paint and tea – he
+has campaigned for human rights with works dealing with oppression,
+commemoration and Chinese identity and social history, as poignant as they are
+provocative.
+
+
+Wei, whose family was taken to a Chinese labor camp when he was only a year
+old, strung up about 14,000 bright orange life jackets used by refugees
+fleeing violence and seeking refuge in Europe along the columns of a
+well-trafficked Berlin concert hall.
+
+The fluorescent orange vests, which are tightly wrapped around the columns of
+the 19th century music venue, were collected by the artist on his frequent
+recent trips to the Greek island of Lesbos, where hundreds of refugees land
+every day after completing the treacherous sea journey 
+
+The installation is a tribute to the refugees that died at sea in an attempt
+to escape war and poverty in the Middle East and North Africa.
+
+The calculating and media-savvy artist doubtlessly chose the timing
+deliberately to maximize media exposure of his project, coinciding with a time
+when the attention of the international press is focused on Berlin and its
+film festival.
+
+Slide 8 - Frozen Flowers (Azuma Makoto, 2023)
+
+Azuma Makoto is a Japanese artist and botanical sculptor. He investigates the
+life-cycle of flowers from the moment of planting through to decomposition,
+adding sensitivity to the tradition of listening to flowers.
+
+Generally recognised as ‘living art’, his work draws from the Japanese concept
+of mono no aware, which loosely translates as “attraction to things that
+fade”. This concept deals with the transcendent and somehow gothic sentiment
+of death. There is also a sense of transience accompanied by the gratitude of
+being present to witness this fleeting moment. Everything is temporary, and
+this is a call for us to be present in the moment.
+
+In this piece, Makoto weaves together various types of colorful flowers,
+creating a tall structure, and then pours water over it.  In winter in
+Hokkaido, temperatures can drop super-low (-15 Celsius or 5 Fahrenheit),
+making the water freeze quickly.  
+
+Makoto hopes the work “encourages the viewer to appreciate and contemplate
+life in nature.”
+
+An important facet of Makoto’s practice is working alongside and adapting to
+nature and striking a collaborative balance so that he’s neither trying to
+control it nor controlled by it.
+
+Through the seasons, Makoto sees how the area transforms and over time has
+witnessed the effects of climate change on the peninsula. He aims to continue
+installing new versions of the icy blooms for years to come in order to
+document the ever-evolving environment.
+
+Other works
+[here](https://www.japanhouselondon.uk/read-and-watch/life-and-works-of-japanese-flower-artist-azuma-makoto/)
+
+Slide 9 - Floating Earth (Luke Jerram, 2021)
+
+Luke Jerram is a multidisciplinary artist working in sculpture, installation
+and live artwork.
+
+The giant 10m diameter Floating Earth installation aims to create a sense of
+the Overview Effect, which was first described by author Frank White in 1987.
+
+The overview effect is a cognitive shift reported by some astronauts while
+viewing the Earth from space. Common features of the experience for astronauts
+are a feeling of awe for the planet, a profound understanding of the
+interconnection of all life, and a renewed sense of responsibility for taking
+care of the environment.
+
+Floating Earth also prompts the difficult discussions we all need to have
+about climate change and what we, as individuals and wider society, can do to
+make our lifestyles sustainable.
+
+The installation is presented with a surround-sound composition by Dan Jones.
+
+It was presented in multiple places globally, this one is in the UK.
+
+Slide 10 - 489 Years (Hayoun Kwon, 2017)
+
+Hayoun Kwon is a multimedia artist and documentary director. She studied in
+France and lives and works in France and Korea.
+
+489 Years shows an animated landscape of the Demilitarized Zone between North
+and South Korea, based on the narration of a former soldier who had entered
+the DMZ­–one of the most dangerous and heavily armed places in the world.
+
+Since only authorized personnel can enter the DMZ, Hayoun Kwon uses animation
+as a medium to reconstruct the space that plays on the fiction and the fantasy
+of a forbidden territory, providing an indirect experience for the viewer.
+
+Among the former soldier’s many accounts, the artist was touched by his story
+of the landmines and flowers, realizing that she wanted the viewer to
+experience the DMZ as a paradoxical place where intense anxiety and subliminal
+beauty coexist.
+
+In creating her imagined landscape, Hayoun Kwon addresses the geopolitical
+realities of the peninsular division, its violence and projected images of
+this mythical space.
+
+Animation affords her the freedom to theatricalize, exaggerate, and push the
+frontiers of representation, and even to exploit the fantasmatic potential of
+her subjects.
+
+Offering the viewer an entrance into the DMZ, Hayoun Kwon‘s work leads the
+viewer to experience the DMZ through human emotions of anxiety and wonder.
+
+Slide 11 - Murmur ( Shawn Micallef, James Roussel and Gabe Sawhney, 2002)
+
+Started with a question: what impact does a narrative have on a physical space?
+
+Shawn Micallef, James Roussel and Gabe Sawhney created [murmur] – a community
+art project that uses the cellphone to make oral history come alive.
+
+The project was launched in 2002 in Toronto’s Kensington neighbourhood,
+Vancouver’s Chinatown and along St Laurent in Montreal and has continued to
+crop up in new neighbourhoods: wherever you see the [murmur] signs, you can
+dial up a number provided on the sign and listen to recorded stories ranging
+from literary histories to tales of neighbourhood transitions to the purely
+personal. The narratives create a connection to place that “counteracts the
+sense Canadians can have that ‘this is nowhere’.
+
+[murmur] is a documentary oral history project that records stories and
+memories told about specific geographic locations.  It collects and make
+accessible people's personal histories and anecdotes about the places in their
+neighborhoods that are important to them.  Anyone can call to listen to that
+story while standing in that exact spot, and engaging in the physical
+experience of being right where the story takes place.
+
+Some stories suggest that the listener walk around, following a certain path
+through a place, while others allow a person to wander with both their feet
+and their gaze.
+
+The stories recorded range from personal recollections to more "historic"
+stories, or sometimes both — but always are told from a personal point of
+view, as if the storyteller is just out for a stroll and was casually talking
+about their neighbourhood to a friend.
+
+It's history from the ground up, told by the voices that are often overlooked
+when the stories of cities are told.
+
+In contrast to famous landmarks, [murmur] looks for the intimate,
+neighbourhood-level voices that tell the day-to-day stories that make up a
+city. The smallest, greyest or most nondescript building can be transformed by
+the stories that live in it.
+
+Slide 12 - USB Dead Drop (Aram Bartholl, 2011)
+
+Aram Bartholl is a German artist who uses sculptural interventions,
+installations, and performative workshops to question our engagement with
+media and with public economies linked to social networks, online platforms,
+and digital dissemination strategies.
+
+He addresses socially relevant topics, including surveillance, data privacy
+and technology dependence, through his work by transferring the gaps,
+contradictions, and absurdities of our everyday digital lives to physical
+settings.
+
+‘Dead Drops’ is an anonymous, offline, peer to peer file-sharing network in
+public space.  USB flash drives, embedded into walls, buildings and curbs, are
+accessible to anybody in public space. Everyone is invited to drop or find
+files on a dead drop. Plug your laptop to a wall, house or pole to share your
+favorite files and data. Each dead drop is installed empty except a readme.txt
+file explaining the project.
+
+‘Dead Drops’ is open to participation. If you want to install a dead drop in
+your neighborhood follow the ‘how to’ instructions and submit the location and
+pictures.
+
+The name comes from the dead drop method of communication used in espionage (a
+method of espionage tradecraft used to pass items or information between two
+individuals (e.g., a case officer and an agent, or two agents) using a secret
+location.)
+
+A German journalist discovered plans for a bomb uploaded to one dead drop in
+Cologne, along with guides to producing crystal meth, and recipes for various
+deadly poisons. It’s like a modern version of the Anarchist Cookbook, a
+collection of forbidden knowledge passed around through underground networks
+for the better part of 50 years, and while the dead-drop upload seems to have
+been as much a political act as an attempt to share bomb-creation tips, it was
+enough to get the police involved.
+
+The Anarchist Cookbook, first published in January 1971, is a book containing
+instructions for the manufacture of explosives, rudimentary telecommunications
+hacking (phreaking) devices, and related weapons, as well as instructions for
+the home manufacture of illicit drugs, including LSD. It was written by
+William Powell at the apex of the counterculture era to protest against United
+States's involvement in the Vietnam War.
+
+That hasn’t stopped the community expanding, though, to almost 1,500 dead
+drops around the world, with nearly 10 terabytes of combined storage. There
+are dead drops on every continent in the world except Antarctica
+
+Slide 13 - Critical Cartography (Tad Hirsh, 2010)
+
+Tad Hirsh is an associate professor of interaction design.  His research
+focuses on interaction design in urban environments with a strong emphasis on
+advocacy and civic engagement
+
+His work is strongly influenced by public and critical art practice, and has
+tackled such thorny issues as human rights, environmental justice, and
+community empowerment.
+
+Critical Cartography is a Web-based interface that maps the location of
+surveillance cameras throughout Manhattan, allowing people to plot routes
+where they could avoid being filmed.
+
+He has extended this work by also giving users the capability for data entry.
+
+Users can add the location of new cameras to the database, as well as
+information on where the cameras are pointed and who owns them.
+
+Slide 14 - Graffiti Research Lab (2005)
+
+Pioneered "no mess" graffiti using LEDs (throwies).
+
+The Graffiti Research Lab (GRL) is dedicated to outfitting graffiti writers,
+artists, pranksters and protesters with open source tools for urban
+communication.
+
+The goal of the GRL is to technologically empower individuals to creatively
+alter their surroundings on the scale of advertisers, corporations and the
+state in order to reclaim public space from both authoritarian and consumer
+culture.
+
+L.A.S.E.R. Tag is a laser pen with which one can draw entire buildings, with
+the help of a large-scale projector. Anyone can create sentences and drawings
+with this instrument, which has passed by constructions such as the Brooklyn
+Bridge, the Colosseum and museums as TATE Modern in London and MoMA in New
+York.
 
