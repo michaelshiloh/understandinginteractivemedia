@@ -1121,7 +1121,6 @@ documentation.
 
 #### todays-lecture
 ### Tuesday October 28 week 8
-- Experiment
 - Lecture and discussion: Environmental and Spatial Art
 
 Slide 2
@@ -1169,6 +1168,10 @@ Marx theorised that these internal contradictions would fuel a proletarian
 revolution, leading to the overthrow of capitalism and the establishment of a
 socialist mode of production. For Marxists, this transition represents a
 necessary step towards a classless, stateless society.
+
+#### Experiment
+
+#### Continue with lecture
 
 Slide 5 (Anish Kapoor, 2006)
 
