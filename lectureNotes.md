@@ -955,7 +955,6 @@ machine art that updates and/or re-focuses your chosen artist/artwork."
   interaction and community in virtual space.  The Telegarden is a metaphor
   for the care and feeding of the delicate social ecology of the net."
 
-#### todays-lecture
 ### Thursday October 9 Week 6
 
 ##### We Feel Fine (Jonathan Harris, 2006)
