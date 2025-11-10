@@ -1119,7 +1119,6 @@ internet in another way, as we saw in "post-internet" art.  Describe which art
 works and ideas from the class materials inspired your piece in your
 documentation.
 
-#### todays-lecture
 ### Tuesday October 28 week 8
 - Lecture and discussion: Environmental and Spatial Art
 
@@ -1487,7 +1486,73 @@ Bridge, the Colosseum and museums as TATE Modern in London and MoMA in New
 York.
 
 
+### Tuesday November 4 Week 9
+- Announcements
 
-
+-------------------------------------------------
+#### Annoucements
+##### Teamlab
 
 [teamLab Info Session](media/Teamlabsinfosession.png)
+
+On Wednesday the 5th from 6pm to 8pm there will be a Portfolio Critique Session by Human Centred Design in the Visual Design Lab. Hosted by former NYUAD colleague and friend Jonathan Steingeisser, the informal critique session will be a formidable chance for our students to check their own portfolios and CV while learning from some of the best professionals in the region and a special guest from Switzerland, the designer Jay Fragomeni.
+
+Aimed primarily to students of Design, the session will be extremely beneficial to any student approaching graduation and/or preparing their CVs for the real world.
+The event is strictly private, exclusively for the NYUAD community and places are limited.
+
+If interested please contact the Design Collective representative Amina Magomedova <am13870@nyu.edu>
+
+Get the idea of the HDC initiatives here:
+https://www.youtube.com/@humancentreddesignunitedar5683/videos
+
+##### Dubai Design Week
+We have organized a bus to go to [Dubai Design
+Week](https://www.dubaidesignweek.ae/) on Friday, November 7. The bus will
+leave the Welcome Center at 3pm , and will depart from Dubai around 9pm. If
+you would like to join us please fill out
+[this](https://docs.google.com/spreadsheets/d/107fhzmLHsjDApqTK2-YGruF37GBnNn6-3xcXkWqLEdI/edit?gid=0#gid=0)
+form. Space is limited, and once the bus fills we can not accept any further
+passengers.
+
+#### todays-lecture
+### Tuesday November 11 Week 10
+- Announcements
+- Presentations
+- New module
+
+#### Announcements
+
+Hi students,
+
+Ready to turn your passion into a profession? Join us for the Arts, Media,
+Communication (AMC) Career Expo on Tuesday, November 11!
+
+This is your chance to connect with professionals, explore academic
+opportunities, and get practical career advice.
+
+Event Schedule Highlights: 
+- Creative Opportunity Fair (3 PM - 4:30 PM | East Forum): Explore
+  opportunities and academic programs. Join to win prizes!
+- Industry Insider 1:1's (3 PM - 5 PM | Career Cafe): Meet 1:1 with a
+  professional for personalized advice on your CV, portfolio, and industry
+  advice.
+- Industry Panel: Breaking Into the Arts (5 PM - 6 PM | Career Cafe): Gain
+  insight from experts at organizations like MiZa, Guggenheim, Wave Sound
+  Studio and more!
+
+When: Tuesday, November 11 Where: East Forum & Career Cafe
+
+Don't miss this essential event for anyone interested in the arts, media and communication fields!
+
+For more details, please check out
+[Handshake](https://nyu.joinhandshake.com/edu/events/1852953).
+
+![](media/AMCExpoDetailsPoster.png)
+
+#### Presentations
+- Paper and pens
+- Write your names and the date on the paper
+- Working individually, critique each project
+- Group projects from last module
+
+#### New module: Affect and Biofeedback
