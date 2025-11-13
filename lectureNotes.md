@@ -1560,6 +1560,8 @@ For more details, please check out
 Biofeedback
 - Usually used when there is some desire to control the thing being measured
   (very much Norbert Weiner's servo loop)
+- Other terms used are bio art, bio inspired art, bio sensing,  
+- [Biofeedback Art Research Network](https://biofeedbackartresearch.net/blog/)
 
 Affective Computing
 - Improves communication b/n humans and computers
