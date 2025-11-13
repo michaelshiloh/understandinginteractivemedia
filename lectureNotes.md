@@ -1559,6 +1559,7 @@ For more details, please check out
 
 Biofeedback
 - Usually used when there is some desire to control the thing being measured
+  (very much Norbert Weiner's servo loop)
 
 Affective Computing
 - Improves communication b/n humans and computers
@@ -1566,34 +1567,16 @@ Affective Computing
 
 
 Caress of the Gaze
-- Behnaz Farahi is a designer, creative technologist and critical maker.
-  Trained as an architect, she explores how to foster an empathetic
-  relationship between the human body and the space around it through the
-  implementation of emerging technologies. Her goal is to enhance the
-  interaction between human beings and the built environment by following
-  morphological, and behavioral principles inspired by natural systems.
-- Caress of the Gaze is a 3D-printed, gaze-actuated wearable.  What if our
-  clothing could behave as an artificial skin capable of changing its shape
-  and operating as an interface with the world, defining social issues such as
-  intimacy, gender and personal identities?
 
 Opale
-- Opale is a custom-made fashion item, integrating soft robotics and facial
-  expression tracking technology, which responds to the expressions of
-  onlookers’ faces. Inspired by animal fur, the outfit is composed of a forest
-  of fiber optics embedded in silicon whose fur bristles when under threat, or
-  which purr when stroked. 
+- facial expression tracking 
+- bristles when under threat
+- purr when stroked. 
 - camera detects a range of facial expressions: happiness, sadness, surprise,
   anger and neutral. 
-- It also incorporates an interactive pneumatic system that can respond
-  accordingly.  For example, Opale can respond to ‘anger’ by agitated
-  movements, or to ‘surprise’ by bristling, in order to influence social
-  interaction.
 
-Bodytalk
-- Artist and designer working in the fields of new media art and feminist
-  theory.
-- Bodytalk translates the heartbeat of two bodies into synchronous light
+[Bodytalk](https://nathalie-gebert.com/bodytalk.html)
+- translates the heartbeat of two bodies into synchronous light
   signals. The installation has a mirrored setting of sensors and seating,
   arranging two individuals to sit in front of each other, with glowing light
   bulbs in between.
@@ -1602,3 +1585,38 @@ Bodytalk
   physical closeness. Bodytalk is presenting it visually to be observed by the
   other person and to be seen by oneself. Being aware of the reveal, face to
   face to your counterpart, might result in a stimulation of the own pulse.
+
+[Lisa Park Eunoia](https://www.thelisapark.com/work/eunoia)
+- brainwaves control sound
+- sound creates vibrations (waves) in the water
+
+jump down to
+
+[Biologic](https://tangible.media.mit.edu/project/biologic/)
+
+[Mutual Wave Machine](https://www.suzannedikker.net/mutualwavemachine)
+
+[BioEssence](https://www.media.mit.edu/projects/bioessence/overview/)
+
+[Affective
+Network](https://www.media.mit.edu/projects/affective-network/overview/)
+
+Emotional Contagion is the "... mimicry and synchronization of one's
+expressions, vocalizations, postures, and movements with those of another
+person." Can be intentional or automatic. When people unconsciously mirror
+their companions' expressions of emotion, they come to feel reflections of
+those companions' emotions.
+
+[Aff-Net](https://www.media.mit.edu/projects/affective-network/overview/)
+- Google Chrome extension 
+- enables Twitter users to filter and make explicit the emotional content in
+  their news feed
+- aims to help social media users better understand which emotions they tend
+  to consume on social media, and how these emotions can spread through their
+  social networks.
+
+next week:
+- Discuss readings
+- group project: conceptualize an interactive project that integrates
+  biofeedback and/or affective computing. 
+
