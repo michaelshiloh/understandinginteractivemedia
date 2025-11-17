@@ -702,7 +702,7 @@ engineers](https://www.commarts.com/project/35154/in-love-with-the-world)
 - Interventionists: Users' Manual for the Creative Disruption of Everyday Life 
 - The Critical Engineering Manifesto 
 
-### Thursday September 24 week 5
+### Thursday October 2 week 6
 - Group presentations
 - Next week: Net Art and Post-Internet Art
 
@@ -714,7 +714,7 @@ to an issue you feel passionate about? In small groups create a work of
 machine art that updates and/or re-focuses your chosen artist/artwork."
 
 
-### Tuesday October 7 week 6
+### Tuesday October 7 week 7
 - Lecture and discussion: Net Art and Post Internet Art
 
 #### Lecture and discussion: Net Art and Post Internet Art
@@ -955,7 +955,7 @@ machine art that updates and/or re-focuses your chosen artist/artwork."
   interaction and community in virtual space.  The Telegarden is a metaphor
   for the care and feeding of the delicate social ecology of the net."
 
-### Thursday October 9 Week 6
+### Thursday October 9 Week 7
 
 ##### We Feel Fine (Jonathan Harris, 2006)
 - Description is [here](https://jjh.org/we-feel-fine)
@@ -1098,7 +1098,7 @@ machine art that updates and/or re-focuses your chosen artist/artwork."
 - Group project Oct 23
 - Reading discussion on Oct 21 will be via Zoom
 
-### Tuesday October 21 week 7
+### Tuesday October 21 week 8
 - Lead a workshop!
 - Reading discussion
 - Homework for Thursday
@@ -1514,7 +1514,6 @@ you would like to join us please fill out
 form. Space is limited, and once the bus fills we can not accept any further
 passengers.
 
-#### todays-lecture
 ### Tuesday November 11 Week 10
 - Announcements
 - Presentations
@@ -1622,3 +1621,36 @@ next week:
 - group project: conceptualize an interactive project that integrates
   biofeedback and/or affective computing. 
 
+#### todays-lecture
+### Tuesday November 18 Week 11
+- Workshops
+- Readings
+
+#### Workshops!
+
+##### Make.com
+- Led by Fausto Fang
+- Wednesday Nov 19th, 6:30-7:30pm
+- IM Lab (C3-029), Arts Center
+- For students who want to know how to automate their work with AI agents and
+  no code. Participants will learn how to connect different applications and
+  services to create automated sequences of tasks that trigger action in one
+  app based on an event in another. Sign up
+  [here](https://docs.google.com/forms/d/e/1FAIpQLSdRWVIVAN0lNVZLCMiO9q43Gx6sJCkzxDHdMc6C9D10yApRxg/viewform?usp=dialog).
+
+##### Propose your own IM Sandbox Workshop - Spring'26
+Are you an Interactive Media student? Do you want to lead a workshop about
+something you want to share with others? Propose your idea for the next
+semester's IM Sandbox Series
+[here](https://docs.google.com/forms/d/e/1FAIpQLSdEAJKkgb1d79cqMSkQdX_MU9T6ypMc0TpnBORYmMYm1Rmmrw/viewform?usp=dialog).
+
+##### Readings
+Interactive Design: Towards a Responsive Environment
+- ‘From Cybernetics to Affective Computing in Design’ by Behnaz Farahi, pages
+  84 - 94
+- ‘Neurospace’ by Mona Ghandi, pages 95 - 105
+
+<details>
+<summary> <b>Some title here</b> </summary>
+  your long text here
+</details>
