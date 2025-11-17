@@ -1651,6 +1651,39 @@ Interactive Design: Towards a Responsive Environment
 - ‘Neurospace’ by Mona Ghandi, pages 95 - 105
 
 <details>
-<summary> <b>Some title here</b> </summary>
-  your long text here
+<summary> Notes </summary>
+“We wanted to put computing back in
+its place, to reposition it into the envi-
+ronmental background, to concentrate
+on human-to-­human interfaces and less 
+on human-to-­computer ones”
+Mark Weiser, about “ubiquitous computing”
+
+Paul Dourish defines tangible
+computing as “an approach that explores
+how to get the computers ‘out of the
+way’ and provide people with a much
+more direct – tangible – interaction experience”.
+
+Tangible Bits
+
+Provoking An ­Emotional Response
+Fritz Heider and Marianne­Simmel [film](https://www.youtube.com/watch?v=VTNmLt7QX8E)
+1944 
+
+Valentino Braitenberg *Vehicles* 1986
+appear to have characteristics such as being aggressive, curious, passionate,
+etc.
+
+"future intelligence will move from reactions to the
+environment (e.g. light increasing when it
+grows dark) to spaces that communicate
+with the user to serve their specific physiological and emotional needs."
+(Arbib)
+
+[OpenBCI](https://docs.openbci.com/)
+
+
 </details>
+
+[Aurora](https://www.youtube.com/watch?v=8yrqC6KULSQ)
