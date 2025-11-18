@@ -1683,6 +1683,18 @@ with the user to serve their specific physiological and emotional needs."
 
 [OpenBCI](https://docs.openbci.com/)
 
+<details>
+<summary> </summary>
+1. How do you feel about affective computing? Why?
+1. Studies of human social interaction indicate that, in general, humans are nicer face-to-face.
+1. Describe a future interaction with a computer with an affective ability in
+   its interface
+1. Affect recognition and expression are necessary for communication of
+   understanding, one of the greatest psychological needs of people.
+   </details>
+1. How would the Arduino IDE benefit from affective computing capabilities?
+1. What are the moral and ethical considerations?
+
 
 </details>
 
