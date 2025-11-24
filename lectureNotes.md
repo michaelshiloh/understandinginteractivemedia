@@ -1621,7 +1621,6 @@ next week:
 - group project: conceptualize an interactive project that integrates
   biofeedback and/or affective computing. 
 
-#### todays-lecture
 ### Tuesday November 18 Week 11
 - Workshops
 - Readings
@@ -1699,3 +1698,9 @@ with the user to serve their specific physiological and emotional needs."
 </details>
 
 [Aurora](https://www.youtube.com/watch?v=8yrqC6KULSQ)
+
+#### todays-lecture
+### Tuesday November 25 Week 12
+- [Final
+  project](https://docs.google.com/presentation/d/1PKjG7OMqg5iSRjAd93bFQEiJG6e-3wrHxT1a67JyGMA/edit?slide=id.p6#slide=id.p6)
+- [Do we Understand Interactive Media?](https://docs.google.com/document/d/1cjOIQ6Xc_JBDk43Dw9SO7aqUv2-lR7Nxaysf9q6iYlg/edit?tab=t.0)
