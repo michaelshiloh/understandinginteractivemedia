@@ -1707,3 +1707,4 @@ with the user to serve their specific physiological and emotional needs."
 - Discussions vs. written work
 - [Final
   project](https://docs.google.com/presentation/d/1PKjG7OMqg5iSRjAd93bFQEiJG6e-3wrHxT1a67JyGMA/edit?slide=id.p6#slide=id.p6)
+- Evaluations
