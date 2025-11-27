@@ -1699,8 +1699,11 @@ with the user to serve their specific physiological and emotional needs."
 
 [Aurora](https://www.youtube.com/watch?v=8yrqC6KULSQ)
 
-#### todays-lecture
 ### Tuesday November 25 Week 12
+- [Do we Understand Interactive Media?](https://docs.google.com/document/d/1cjOIQ6Xc_JBDk43Dw9SO7aqUv2-lR7Nxaysf9q6iYlg/edit?tab=t.0)
+
+#### todays-lecture
+### Thursday November 27 Week 12
+- Discussions vs. written work
 - [Final
   project](https://docs.google.com/presentation/d/1PKjG7OMqg5iSRjAd93bFQEiJG6e-3wrHxT1a67JyGMA/edit?slide=id.p6#slide=id.p6)
-- [Do we Understand Interactive Media?](https://docs.google.com/document/d/1cjOIQ6Xc_JBDk43Dw9SO7aqUv2-lR7Nxaysf9q6iYlg/edit?tab=t.0)
