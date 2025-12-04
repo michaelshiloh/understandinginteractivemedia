@@ -1702,9 +1702,35 @@ with the user to serve their specific physiological and emotional needs."
 ### Tuesday November 25 Week 12
 - [Do we Understand Interactive Media?](https://docs.google.com/document/d/1cjOIQ6Xc_JBDk43Dw9SO7aqUv2-lR7Nxaysf9q6iYlg/edit?tab=t.0)
 
-#### todays-lecture
 ### Thursday November 27 Week 12
 - Discussions vs. written work
 - [Final
   project](https://docs.google.com/presentation/d/1PKjG7OMqg5iSRjAd93bFQEiJG6e-3wrHxT1a67JyGMA/edit?slide=id.p6#slide=id.p6)
 - Evaluations
+
+#### todays-lecture
+### Thursday December 04 Week 13
+
+Plan for next Tuesday
+
+* Each team will speak for 13 minutes, allow 3 minutes for questions and
+  discussion for a total of 16 minutes, and we will have 2 minutes for
+  changing to the next team:
+
+    * Team Mirette, Hubert, Mohid, Hamda: 9:55-10:11
+    * Team Keya, Aysha, Hyein, Fausto: 10:13-10:29
+    * Team Meera, Elora, Batool, Raghd: 10:31-10:47
+    * Team Yiyang, Shereena, Victor, Sudiksha: 10:49-11:05
+
+* The first team should set up and be ready to start immediately
+
+* Every person not speaking will write a very short critique of each of the
+  artworks in each of the other three presentations.
+* Be in class on time (that means bathroom breaks must happen before class
+  starts)
+* Teams not speaking must keep their laptops closed. Phones must be in bags.
+* If anyone can not be in class at 9:55 next Tuesday, you must email me before
+  noon on Monday, explaining why you can not be in class on time, to request
+  an excused absence. I will reply to your email indicating whether your
+  request has been approved or not. If I do not approve of your request,
+  arriving late will count as an absence.
