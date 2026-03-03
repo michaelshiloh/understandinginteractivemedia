@@ -258,6 +258,8 @@ The machine as art vs. the machine as something that makes art
 
 Q: How would you critique or review this exhibition?
 
+[Catalog](https://github.com/michaelshiloh/resourcesForClasses/blob/master/doc/machineArtCatalogue_MOMA_1934.pdf) from the show
+
 ##### Robot K-456 (Nam June Paik) 1964
 
 Pictures 
@@ -267,7 +269,7 @@ Pictures
 Video
 [here](https://www.facebook.com/AmericanMasters/videos/nam-june-paiks-robot/791881432138126/)
 and
-[here](https://www.youtube.com/watch?v=JmkYjGVVRFA)
+[here](https://www.youtube.com/watch?v=JmkYjGVVRFA) (robot at 3:00)
 
 - A major figure of the experimental Fluxus movement 
     - (Fluxus was an international, interdisciplinary community of artists,
@@ -586,8 +588,7 @@ the viewers in performing certain movements; others induce a physical reaction
 from them. For this performance of about an hour long, we have built 25
 wearable robotic structures very similar to exoskeletons.
 
-##### [Can’t Help Myself by Sun Yuan and Peng
-Yu](https://www.youtube.com/watch?v=ZS4Bpr2BgnE)
+##### [Can’t Help Myself by Sun Yuan and Peng Yu](https://www.youtube.com/watch?v=ZS4Bpr2BgnE)
 
 - Sun Yuan (born 1972) and Peng Yu (born 1974) are Chinese conceptual artists
   whose work has a reputation for being confrontational and provocative.
@@ -622,11 +623,9 @@ Yu](https://www.youtube.com/watch?v=ZS4Bpr2BgnE)
   places and cultures and to the increasing use of technology to monitor our
   environment.
 
-##### [End of Life Care Machine by Dan
-Chen](https://dankc.com/end-of-life-care-machine/)
+##### [End of Life Care Machine by Dan Chen](https://dankc.com/end-of-life-care-machine/)
 
-##### [In Love with the World by Anicka
-Yi](https://www.youtube.com/watch?v=6D2Ts9AtSQQ)
+##### [In Love with the World by Anicka Yi](https://www.youtube.com/watch?v=6D2Ts9AtSQQ)
 
 [Interview](https://www.youtube.com/watch?v=6wyRHfImk3s)
 
@@ -664,7 +663,7 @@ fellowships at the Berggruen Institute in Los Angeles, the Headlands Center
 for the Arts, and the Center for Art Science and Technology at MIT.
 
 From the point of view of the
-engineers](https://www.commarts.com/project/35154/in-love-with-the-world)
+[engineers](https://www.commarts.com/project/35154/in-love-with-the-world)
 
 ##### So many more!!!!!
 
