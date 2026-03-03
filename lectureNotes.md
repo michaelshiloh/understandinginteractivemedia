@@ -224,6 +224,12 @@ class cancelled
 
 #### Machine Art
 
+1001 Inventions: The Enduring Legacy of Muslim Civilization
+
+[Leonardo da Vinci](https://en.wikipedia.org/wiki/Leonardo_da_Vinci
+
+[Jean Tinguely](https://en.wikipedia.org/wiki/Jean_Tinguely)
+
 ##### Machine Art in the Twentieth Century
 
 ““Machine art” is neither a movement nor a genre; rather, the term encompasses
