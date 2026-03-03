@@ -226,9 +226,10 @@ class cancelled
 
 1001 Inventions: The Enduring Legacy of Muslim Civilization
 
-[Leonardo da Vinci](https://en.wikipedia.org/wiki/Leonardo_da_Vinci
+[Leonardo da Vinci](https://en.wikipedia.org/wiki/Leonardo_da_Vinci)
 
 [Jean Tinguely](https://en.wikipedia.org/wiki/Jean_Tinguely)
+
 
 ##### Machine Art in the Twentieth Century
 
@@ -682,6 +683,7 @@ From the point of view of the
 - Madeline Gannon
 - Chico MacMurtrie
 - Theo Jansen
+- Tim Hunkin's [The Secret Life of components. A series of eight guides for designers and makers](https://www.youtube.com/playlist?list=PLtaR0lZhSyANYB0Xxb9OSp47pHuQmj3Ol)
 
 #### Homework
 - In the [syllabus](https://github.com/michaelshiloh/understandinginteractivemedia/blob/main/syllabus.md#group-activity-2)
